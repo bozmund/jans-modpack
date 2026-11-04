@@ -1,0 +1,32 @@
+# jans-launcher publish settings (lives in the pack repository root)
+name = "Jan's Fabric 26.3"
+minecraft = "26.3"
+fabric_loader = "0.20.1"
+recommended_memory_mb = 8192
+
+# GitHub repository of this pack; own jars are uploaded as assets of release `assets_release`.
+github_repo = "bozmund/jans-modpack"
+assets_release = "files"
+
+# What is shipped from the profile (paths relative to the profile, / separators).
+include = [
+  "mods/*.jar",
+  "config/**",
+  "defaultconfigs/**",
+  "shaderpacks/*",
+  "resourcepacks/*",
+  "global_packs/**",
+]
+exclude = [
+  "config/resourceful-config-web.json",
+  "config/jei/world/**",
+  "**/*.bak*",
+  "**/*.disabled",
+  "**/*.old",
+  "**/*.tmp",
+  "**/.DS_Store",
+]
+# Copied to players only when missing, so their own changes survive updates.
+once = ["config/**", "defaultconfigs/**"]
+# Non-jar files larger than this go to release assets instead of the Git repo.
+asset_min_size_mb = 5
