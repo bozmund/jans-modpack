@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 1,
-  "version": "2026.11.04",
+  "build": 2,
+  "version": "2026.11.04-2",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -7113,9 +7113,9 @@
     },
     {
       "path": "mods/simple-clouds-0.7.3+26.3-fabric.jar",
-      "sha512": "bb630967ff509f3e813ff3910db7b899252d2bdd71035fe64199980957a17145c05550112657150c5add032afff0d0d60e643768d4eb9ad53be35ad1b1f65e03",
-      "size": 6651007,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/bb630967ff509f3e-simple-clouds-0.7.3+26.3-fabric.jar",
+      "sha512": "5d30fb2506c00febf370c76060ef90f8b421480f5cc9a9574723a9ca395a2da5fcdd27cb566d4bc685f462a582b653b6a172b7f3169b27a6efc00aeb6e0a340b",
+      "size": 6655062,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5d30fb2506c00feb-simple-clouds-0.7.3+26.3-fabric.jar",
       "policy": "managed",
       "name": "Simple Clouds",
       "version": "0.7.3+26.3-fabric",
@@ -7401,9 +7401,9 @@
     },
     {
       "path": "mods/twilightforest-fabric-26.3-4.9.0+26.3-port.1.jar",
-      "sha512": "8830bc120db63c4364543aed1297598d43b60333cd77344ea2f6828f1f92a3d9365533412b568554f2f26c212babfac68aa7f11c45a6f8e00dd5d3e791d18d86",
-      "size": 26934553,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8830bc120db63c43-twilightforest-fabric-26.3-4.9.0+26.3-port.1.jar",
+      "sha512": "70386a23c34e3ee8ad43a35a658653cefa8a6eba08115cc1d485e02e7b20a5b177c914d26789db555e263614a96312a1db01e84c131d258fa1bbb35253d44975",
+      "size": 26934519,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/70386a23c34e3ee8-twilightforest-fabric-26.3-4.9.0+26.3-port.1.jar",
       "policy": "managed",
       "name": "The Twilight Forest",
       "version": "4.9.0+26.3-port.1",
@@ -7620,6 +7620,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 2,
+      "version": "2026.11.04-2",
+      "date": "2026-11-04",
+      "text": "Fix Twilight Forest aurora render-pass crash. Exclude Simple Clouds sky and weather from Twilight Forest, including legacy dimension configurations."
+    },
     {
       "build": 1,
       "version": "2026.11.04",
