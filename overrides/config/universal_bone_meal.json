@@ -1,0 +1,16 @@
+{
+  "allowCactus": true,
+  "allowSugarCane": true,
+  "allowVines": true,
+  "allowNetherWart": true,
+  "allowFruitStems": true,
+  "allowLilyPad": true,
+  "allowDeadBush": true,
+  "allowSmallFlowers": true,
+  "allowCorals": true,
+  "allowChorus": true,
+  "allowMycelium": true,
+  "allowDirt": true,
+  "allowPodzol": true,
+  "allowSporeBlossom": true
+}

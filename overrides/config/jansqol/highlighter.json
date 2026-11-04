@@ -1,0 +1,8 @@
+{
+  "clear_on_close": true,
+  "clear_on_hover": true,
+  "clear_on_select": true,
+  "item_name_color": false,
+  "show_on_hotbar": true,
+  "icon_position": "UpperLeft"
+}

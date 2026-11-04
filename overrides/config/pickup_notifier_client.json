@@ -1,0 +1,33 @@
+{
+  "general": {
+    "clientOnly": false,
+    "includeItems": true,
+    "includeExperience": true,
+    "includeArrows": true,
+    "experienceValue": true,
+    "disableInCreative": false,
+    "hiddenItemsRaw": []
+  },
+  "behavior": {
+    "combineEntries": "EXCLUDE_NAMED",
+    "displayTime": 80,
+    "moveOut": "VERTICAL",
+    "moveTime": 20,
+    "fadeOut": true
+  },
+  "display": {
+    "drawSprite": true,
+    "textColor": "WHITE",
+    "ignoreRarity": false,
+    "screenCorner": "BOTTOM_RIGHT",
+    "offsetX": 8,
+    "offsetY": 4,
+    "maxHeight": 0.5,
+    "displayScale": 4,
+    "displayAmount": "TEXT",
+    "inventoryCount": false,
+    "displaySingleCount": true,
+    "entryBackground": "CHAT",
+    "displayItemName": true
+  }
+}

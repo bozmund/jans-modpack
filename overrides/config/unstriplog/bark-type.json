@@ -1,0 +1,54 @@
+[
+  {
+    "name": "birch",
+    "texture": "unstriplog:textures/item/birch_bark.png"
+  },
+  {
+    "name": "crimson",
+    "texture": "unstriplog:textures/item/crimson_bark.png"
+  },
+  {
+    "name": "pale_oak",
+    "texture": "unstriplog:textures/item/pale_oak_bark.png"
+  },
+  {
+    "name": "cherry",
+    "texture": "unstriplog:textures/item/cherry_bark.png"
+  },
+  {
+    "name": "poplar",
+    "texture": "unstriplog:textures/item/poplar_bark.png"
+  },
+  {
+    "name": "mangrove",
+    "texture": "unstriplog:textures/item/mangrove_bark.png"
+  },
+  {
+    "name": "oak",
+    "texture": "unstriplog:textures/item/oak_bark.png"
+  },
+  {
+    "name": "warped",
+    "texture": "unstriplog:textures/item/warped_bark.png"
+  },
+  {
+    "name": "acacia",
+    "texture": "unstriplog:textures/item/acacia_bark.png"
+  },
+  {
+    "name": "spruce",
+    "texture": "unstriplog:textures/item/spruce_bark.png"
+  },
+  {
+    "name": "dark_oak",
+    "texture": "unstriplog:textures/item/dark_oak_bark.png"
+  },
+  {
+    "name": "jungle",
+    "texture": "unstriplog:textures/item/jungle_bark.png"
+  },
+  {
+    "name": "bamboo",
+    "texture": "unstriplog:textures/item/bamboo_bark.png"
+  }
+]

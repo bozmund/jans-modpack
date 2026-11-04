@@ -1,0 +1,27 @@
+{
+  "allowEmptyHand": true,
+  "damageTool": false,
+  "autoConfigMods": true,
+  "xpFromHarvestChance": 100,
+  "xpFromHarvestAmount": 1,
+  "xpFromHarvestUseRange": false,
+  "xpFromHarvestRangeAmount": "0-3",
+  "harvestableCrops": [],
+  "harvestableBlocks": [
+    "minecraft:sweet_berry_bush",
+    "minecraft:cave_vines"
+  ],
+  "expandHoeRange": true,
+  "smallTierExpansionRange": 2,
+  "highTierExpansionRange": 3,
+  "expandHoeRangeEnchanted": true,
+  "maxHoeExpansionRange": 11,
+  "hoeItems": [],
+  "blacklistCrops": [
+    "minecraft:torchflower_crop"
+  ],
+  "blacklistMods": [],
+  "allowFakePlayer": true,
+  "blacklistHeldItems": [],
+  "replantCrops": true
+}

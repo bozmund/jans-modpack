@@ -1,0 +1,30 @@
+{
+  "config_version": 3,
+  "enable_config_updates": true,
+  "player_health_threshold": 13.5,
+  "mob_thresholds": {
+    "minecraft:allay": 13.5,
+    "minecraft:wolf": 4.0,
+    "minecraft:parrot": 3.0,
+    "minecraft:cat": 5.0,
+    "minecraft:axolotl": 4.0,
+    "minecraft:villager": 13.5,
+    "minecraft:wandering_trader": 13.5,
+    "minecraft:horse": 15.0,
+    "minecraft:donkey": 15.0,
+    "minecraft:mule": 15.0,
+    "minecraft:skeleton_horse": 15.0,
+    "minecraft:zombie_horse": 15.0,
+    "minecraft:llama": 15.0,
+    "minecraft:trader_llama": 15.0,
+    "minecraft:camel": 15.0,
+    "minecraft:camel_husk": 15.0,
+    "minecraft:happy_ghast": 15.0,
+    "minecraft:strider": 17.0,
+    "minecraft:nautilus": 10.0,
+    "minecraft:zombie_nautilus": 10.0,
+    "minecraft:snow_golem": 2.0,
+    "minecraft:iron_golem": 20.0,
+    "minecraft:copper_golem": 9.0
+  }
+}

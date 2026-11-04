@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Jan's modpack: Battle Towers generate only as cobblestone towers (surface + underground), in every biome that had towers",
+    "max_format": 121,
+    "min_format": 121
+  }
+}

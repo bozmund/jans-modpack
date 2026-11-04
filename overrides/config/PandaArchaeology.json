@@ -1,0 +1,9 @@
+{
+  "activeForFishing": true,
+  "activeForBrushing": true,
+  "onlyPlayerOwned": false,
+  "itemLimit": 10,
+  "fishingChance": 100,
+  "brushChance": 10,
+  "luckMultiplier": 3
+}

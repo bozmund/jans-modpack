@@ -1,0 +1,19 @@
+{
+  "priorWorkPenalty": "LIMITED",
+  "maximumPriorWorkPenaltyIncrease": 4,
+  "renameAndRepairCosts": "FIXED",
+  "penaltyFreeRenamesAndRepairs": true,
+  "penaltyFreeEnchantsForBooks": true,
+  "tooExpensiveLimit": -1,
+  "freeRenames": "ALL_ITEMS",
+  "halvedBookCosts": true,
+  "repairWithMaterialUnitCost": 1,
+  "repairWithMaterialRestoredDurability": 0.25,
+  "repairWithOtherItemCost": 2,
+  "repairWithOtherItemBonusDurability": 0.12,
+  "anvilRepairing": true,
+  "anvilBreakChance": 0.05,
+  "riskFreeAnvilRenaming": true,
+  "renamingSupportsFormatting": true,
+  "convertVanillaAnvilWhenInteracting": true
+}

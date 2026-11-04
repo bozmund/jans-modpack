@@ -1,0 +1,40 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "pepjebs.mapatlases.screen.MapAtlasesAtlasOverviewScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.book.CaveBookScreen": true,
+    "nonamecrackers2.crackerslib.client.gui.Popup": true,
+    "dev.nonamecrackers2.simpleclouds.client.gui.CloudPreviewerScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.cobblemon.mod.common.client.gui.battle.BattleGUI": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true,
+    "sircow.torrential.screen.CacheScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "net.minecraft.client.gui.screens.ConfirmScreen": true,
+    "dev.shadowsoffire.apotheosis.client.WorldTierTutorialScreen": true,
+    "com.vulp.druidcraftrg.client.gui.screen.inventory.CrateScreen": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "pepjebs.mapatlases.screen.MapAtlasesAtlasOverviewScreen": true,
+    "com.eboac.terracraft.client.screen.CraftBrowserScreen": true,
+    "com.github.alexmodguy.alexscaves.client.gui.SpelunkeryTableScreen": true,
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "sircow.torrential.screen.CacheScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "com.vulp.druidcraftrg.client.gui.screen.inventory.CrateScreen": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+  }
+}

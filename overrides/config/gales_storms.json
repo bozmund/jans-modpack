@@ -1,0 +1,15 @@
+{
+  "particleMultiplier": 1.0,
+  "spawnFrequencyMultiplier": 1.0,
+  "debrisVisualsEnabled": true,
+  "dedicatedCreativeTab": false,
+  "tornadoPull": "players_and_mobs",
+  "tornadoDestruction": "limited",
+  "tornadoBurnFlammables": true,
+  "tornadoFreezeWater": true,
+  "tornadoStorms": true,
+  "hail": true,
+  "hailDamage": true,
+  "tornadoDebris": true,
+  "tornadoDebrisDamage": true
+}

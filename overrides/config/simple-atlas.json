@@ -1,0 +1,7 @@
+{
+  "maxAtlasMapCount": 256,
+  "maxWaypoints": 256,
+  "bannerWaypointsOnly": false,
+  "waypointIconSize": 1.0,
+  "playerIconSize": 1.0
+}

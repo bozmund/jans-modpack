@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#battletowers:has_structure/battletowers_desert",
+    "#battletowers:has_structure/battletowers_badlands",
+    "#battletowers:has_structure/battletowers_jungle"
+  ]
+}

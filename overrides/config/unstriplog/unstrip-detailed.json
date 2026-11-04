@@ -1,0 +1,327 @@
+[
+  {
+    "base": "minecraft:poplar_log",
+    "stripped": "minecraft:stripped_poplar_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "poplar",
+          "texture": "unstriplog:textures/item/poplar_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:bamboo_block",
+    "stripped": "minecraft:stripped_bamboo_block",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "bamboo",
+          "texture": "unstriplog:textures/item/bamboo_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:birch_wood",
+    "stripped": "minecraft:stripped_birch_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "birch",
+          "texture": "unstriplog:textures/item/birch_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:dark_oak_wood",
+    "stripped": "minecraft:stripped_dark_oak_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "dark_oak",
+          "texture": "unstriplog:textures/item/dark_oak_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:acacia_log",
+    "stripped": "minecraft:stripped_acacia_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "acacia",
+          "texture": "unstriplog:textures/item/acacia_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:cherry_log",
+    "stripped": "minecraft:stripped_cherry_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "cherry",
+          "texture": "unstriplog:textures/item/cherry_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:spruce_wood",
+    "stripped": "minecraft:stripped_spruce_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "spruce",
+          "texture": "unstriplog:textures/item/spruce_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:warped_stem",
+    "stripped": "minecraft:stripped_warped_stem",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "warped",
+          "texture": "unstriplog:textures/item/warped_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:warped_hyphae",
+    "stripped": "minecraft:stripped_warped_hyphae",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "warped",
+          "texture": "unstriplog:textures/item/warped_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:poplar_wood",
+    "stripped": "minecraft:stripped_poplar_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "poplar",
+          "texture": "unstriplog:textures/item/poplar_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:crimson_stem",
+    "stripped": "minecraft:stripped_crimson_stem",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "crimson",
+          "texture": "unstriplog:textures/item/crimson_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:birch_log",
+    "stripped": "minecraft:stripped_birch_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "birch",
+          "texture": "unstriplog:textures/item/birch_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:oak_wood",
+    "stripped": "minecraft:stripped_oak_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "oak",
+          "texture": "unstriplog:textures/item/oak_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:pale_oak_log",
+    "stripped": "minecraft:stripped_pale_oak_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "pale_oak",
+          "texture": "unstriplog:textures/item/pale_oak_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:spruce_log",
+    "stripped": "minecraft:stripped_spruce_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "spruce",
+          "texture": "unstriplog:textures/item/spruce_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:mangrove_log",
+    "stripped": "minecraft:stripped_mangrove_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "mangrove",
+          "texture": "unstriplog:textures/item/mangrove_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:dark_oak_log",
+    "stripped": "minecraft:stripped_dark_oak_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "dark_oak",
+          "texture": "unstriplog:textures/item/dark_oak_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:mangrove_wood",
+    "stripped": "minecraft:stripped_mangrove_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "mangrove",
+          "texture": "unstriplog:textures/item/mangrove_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:acacia_wood",
+    "stripped": "minecraft:stripped_acacia_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "acacia",
+          "texture": "unstriplog:textures/item/acacia_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:cherry_wood",
+    "stripped": "minecraft:stripped_cherry_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "cherry",
+          "texture": "unstriplog:textures/item/cherry_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:jungle_log",
+    "stripped": "minecraft:stripped_jungle_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "jungle",
+          "texture": "unstriplog:textures/item/jungle_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:jungle_wood",
+    "stripped": "minecraft:stripped_jungle_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "jungle",
+          "texture": "unstriplog:textures/item/jungle_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:oak_log",
+    "stripped": "minecraft:stripped_oak_log",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "oak",
+          "texture": "unstriplog:textures/item/oak_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:crimson_hyphae",
+    "stripped": "minecraft:stripped_crimson_hyphae",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "crimson",
+          "texture": "unstriplog:textures/item/crimson_bark.png"
+        }
+      }
+    }
+  },
+  {
+    "base": "minecraft:pale_oak_wood",
+    "stripped": "minecraft:stripped_pale_oak_wood",
+    "drop": {
+      "id": "unstriplog:bark",
+      "components": {
+        "unstriplog:bark_type": {
+          "name": "pale_oak",
+          "texture": "unstriplog:textures/item/pale_oak_bark.png"
+        }
+      }
+    }
+  }
+]

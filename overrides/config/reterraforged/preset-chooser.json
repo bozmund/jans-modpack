@@ -1,0 +1,8 @@
+{
+  "_comment": "Read by the ReTerraForged preset chooser (Claude candidate build 2026-10-20). Hiding never deletes or moves presets; delete this file to show every preset again.",
+  "hideBuiltinPresets": true,
+  "hiddenPresets": [
+    "Friends - World8 Original"
+  ],
+  "selectPreset": "Friends 20k - Mali kontinent"
+}

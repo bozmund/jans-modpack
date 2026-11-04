@@ -1,0 +1,32 @@
+{
+  "grow_tree": {
+    "replace": true,
+    "simulation_method": "grow_tree",
+    "advance_probability": 0,
+    "conditions": [
+      {
+        "check": {
+          "fetcher_id": "raw_brightness",
+          "offset": "above"
+        },
+        "comparison": "greater_or_equal",
+        "value": 16
+      }
+    ]
+  },
+  "grow_tree_final": {
+    "replace": true,
+    "simulation_method": "grow_tree",
+    "advance_probability": 0,
+    "conditions": [
+      {
+        "check": {
+          "fetcher_id": "raw_brightness",
+          "offset": "above"
+        },
+        "comparison": "greater_or_equal",
+        "value": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "chance": 0.05,
+  "spawnMultiplier": 4.0,
+  "targetRadius": 64.0,
+  "mobSpeedMultiplier": 1.5,
+  "screenVignette": true,
+  "tintMoon": true,
+  "mobParticles": true
+}

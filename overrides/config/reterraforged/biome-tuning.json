@@ -1,0 +1,7 @@
+{
+  "_comment": "Claude 2026-10-27. keep = share of the world (in ~1.5 km regions) where the biome may appear; grow = blocks its patches spread. Delete this file to turn tuning off. Changes affect newly generated land only.",
+  "biomesoplenty:redwood_forest": {"keep": 0.5, "grow": 96},
+  "biomesoplenty:cold_desert": {"keep": 0.5},
+  "biomesoplenty:scrubland": {"keep": 0.5},
+  "minecraft:savanna": {"keep": 0.5}
+}

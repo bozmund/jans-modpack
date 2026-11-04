@@ -1,0 +1,15 @@
+{
+  "world_features": {
+    "igneous_rock_patches": true,
+    "blueberry_bushes": true,
+    "palms": false
+  },
+  "animals": {
+    "capybaras_weight": 10,
+    "ducks_weight": 10
+  },
+  "monsters": {
+    "lush_creepers_weight": 15,
+    "sunkens_weight": 10
+  }
+}

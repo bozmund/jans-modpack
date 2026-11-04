@@ -1,0 +1,4 @@
+{
+  // This config determines the protection of animal (horse, nautilus) armor.
+  protection: 9
+}

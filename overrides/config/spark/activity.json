@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Bozmund",
+      "uniqueId": "90d6544a-1f2d-4f6f-a0ab-209215c4207e"
+    },
+    "time": 1793557019394,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NyNRXKK9je"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Bozmund",
+      "uniqueId": "90d6544a-1f2d-4f6f-a0ab-209215c4207e"
+    },
+    "time": 1792776155391,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/EYrI3aOMFi"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Bozmund",
+      "uniqueId": "90d6544a-1f2d-4f6f-a0ab-209215c4207e"
+    },
+    "time": 1792774248554,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QzSoCAKOv6"
+    }
+  }
+]

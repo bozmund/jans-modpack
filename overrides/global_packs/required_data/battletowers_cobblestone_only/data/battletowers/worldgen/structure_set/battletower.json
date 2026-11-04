@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "battletowers:cobblestone_tower",
+      "weight": 5
+    },
+    {
+      "structure": "battletowers:underground_cobblestone_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 15,
+    "salt": 718165913
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "convertVanillaEnchantingTableWhenInteracting": true,
+  "rerollEnchantments": true,
+  "rerollCatalystCost": 1,
+  "rerollExperiencePointsCost": 5,
+  "rerollingTakesEnchantmentLevels": false,
+  "dedicatedRerollCatalyst": false,
+  "enchantmentHint": "SINGLE",
+  "maxEnchantingPower": 15,
+  "lenientBookshelves": true,
+  "chiseledBookshelfEnchantingPower": "FACING"
+}

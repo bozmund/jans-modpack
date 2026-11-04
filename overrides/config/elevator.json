@@ -1,0 +1,27 @@
+{
+  // Block IDs that may be used as elevator platforms. Every listed block must be placed on top of a redstone block.
+  "elevatorBlocks": [
+  "minecraft:iron_block"
+],
+
+  // Maximum number of blocks to scan upward or downward for the next elevator platform.
+  "maxElevatorHeight": 50,
+
+  // Whether teleporting should spawn particles at the destination.
+  "particlesEnabled": true,
+
+  // Particle ID to use when particles are enabled. Simple particles like minecraft:portal work best.
+  "particleType": "minecraft:portal",
+
+  // Whether teleporting should play a sound effect.
+  "soundEnabled": true,
+
+  // Entity sound event ID to play when sound is enabled.
+  "soundEvent": "minecraft:entity.enderman.teleport",
+
+  // Cooldown between teleports in ticks. 20 ticks equals 1 second.
+  "cooldownTicks": 20,
+
+  // When enabled, the destination must have enough headroom for the player to arrive safely.
+  "safetyEnabled": true
+}

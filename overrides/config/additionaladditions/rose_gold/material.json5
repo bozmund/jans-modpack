@@ -1,0 +1,21 @@
+{
+  // Determines armor toughness of this material.
+  toughness: 0.0,
+
+  // Determines armor knockback resistance of this material.
+  knockback_resistance: 0.0,
+
+  // Determines the enchantability of this material (affects how the item is enchanted on the enchanting table).
+  enchantability: 17,
+
+  // Determines the equip sound of armor of this material.
+  equip_sound: {
+    sound_event: "minecraft:item.armor.equip_gold"
+  },
+
+  // Block tag of blocks that won't drop when destroyed with tools of this material.
+  // This effectively determines the tier of the material.
+  incorrect_blocks_for_drops: {
+    block_tag: "#minecraft:incorrect_for_iron_tool"
+  }
+}

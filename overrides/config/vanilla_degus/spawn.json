@@ -1,0 +1,41 @@
+{
+  "naturalSpawnDefinitions": [
+    {
+      "biomes": [
+        "minecraft:badlands",
+        "minecraft:eroded_badlands",
+        "minecraft:wooded_badlands",
+        "minecraft:stony_peaks"
+      ],
+      "weight": 5,
+      "minGroupSize": 3,
+      "maxGroupSize": 7
+    },
+    {
+      "biomes": [
+        "minecraft:desert"
+      ],
+      "weight": 1,
+      "minGroupSize": 3,
+      "maxGroupSize": 7
+    },
+    {
+      "biomes": [
+        "minecraft:savanna",
+        "minecraft:meadow"
+      ],
+      "weight": 5,
+      "minGroupSize": 3,
+      "maxGroupSize": 7
+    },
+    {
+      "biomes": [
+        "minecraft:savanna_plateau",
+        "minecraft:windswept_savanna"
+      ],
+      "weight": 10,
+      "minGroupSize": 3,
+      "maxGroupSize": 7
+    }
+  ]
+}

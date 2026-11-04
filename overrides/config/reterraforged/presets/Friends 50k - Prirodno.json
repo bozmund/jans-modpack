@@ -1,0 +1,372 @@
+{
+  "caves": {},
+  "climate": {
+    "biomeEdgeShape": {
+      "type": "SIMPLEX",
+      "gain": 0.5,
+      "lacunarity": 2.65,
+      "octaves": 2,
+      "scale": 24,
+      "strength": 14
+    },
+    "biomeShape": {
+      "biomeSize": 192,
+      "biomeWarpScale": 150,
+      "biomeWarpStrength": 80,
+      "macroNoiseSize": 8
+    },
+    "moisture": {
+      "bias": 0.08,
+      "falloff": 1,
+      "max": 1.0,
+      "min": 0.0,
+      "scale": 6,
+      "seedOffset": 0
+    },
+    "temperature": {
+      "bias": 0.0,
+      "falloff": 2,
+      "max": 1.0,
+      "min": 0.0,
+      "scale": 6,
+      "seedOffset": 0
+    }
+  },
+  "filters": {
+    "erosion": {
+      "depositeRate": 0.5,
+      "dropletLifetime": 12,
+      "dropletVelocity": 0.7,
+      "dropletVolume": 0.7,
+      "dropletsPerChunk": 135,
+      "erosionRate": 0.5
+    },
+    "smoothing": {
+      "iterations": 1,
+      "smoothingRadius": 1.8,
+      "smoothingRate": 0.9
+    }
+  },
+  "miscellaneous": {
+    "customBiomeFeatures": true,
+    "erosionDecorator": true,
+    "mountainBiomeUsage": 0.4,
+    "naturalSnowDecorator": true,
+    "oreCompatibleStoneOnly": true,
+    "plainStoneErosion": false,
+    "smoothLayerDecorator": true,
+    "strataDecorator": true,
+    "strataRegionSize": 600,
+    "vanillaLavaLakes": true,
+    "vanillaLavaSprings": true,
+    "vanillaSprings": true,
+    "volcanoBiomeUsage": 0.4
+  },
+  "rivers": {
+    "branchRivers": {
+      "bankWidth": 20,
+      "bedDepth": 4,
+      "bedWidth": 8,
+      "fade": 0.7,
+      "maxBankHeight": 4,
+      "minBankHeight": 1
+    },
+    "lakes": {
+      "chance": 0.3,
+      "depth": 10,
+      "maxBankHeight": 10,
+      "minBankHeight": 2,
+      "sizeMax": 150,
+      "sizeMin": 75
+    },
+    "mainRivers": {
+      "bankWidth": 24,
+      "bedDepth": 5,
+      "bedWidth": 10,
+      "fade": 0.6,
+      "maxBankHeight": 6,
+      "minBankHeight": 2
+    },
+    "riverCount": 8,
+    "seedOffset": 0,
+    "wetlands": {
+      "chance": 0.6,
+      "sizeMax": 225,
+      "sizeMin": 175
+    }
+  },
+  "structures": {
+    "structures": {
+      "ad_astra:oil_well": {
+        "disabled": false,
+        "salt": 1922601463,
+        "separation": 14,
+        "spacing": 20
+      },
+      "alexscaves:underground_cabin": {
+        "disabled": false,
+        "salt": 99,
+        "separation": 2,
+        "spacing": 10
+      },
+      "betterarcheology:archeology_sites": {
+        "disabled": false,
+        "salt": 990880770,
+        "separation": 16,
+        "spacing": 32
+      },
+      "betterarcheology:fossil_sites": {
+        "disabled": false,
+        "salt": 990880771,
+        "separation": 12,
+        "spacing": 24
+      },
+      "betterarcheology:underwater_ruins": {
+        "disabled": false,
+        "salt": 990880772,
+        "separation": 12,
+        "spacing": 16
+      },
+      "earth-and-water:ancient_ruins_set": {
+        "disabled": false,
+        "salt": 987654341,
+        "separation": 6,
+        "spacing": 7
+      },
+      "earth-and-water:conduit_monuments": {
+        "disabled": false,
+        "salt": 165765296,
+        "separation": 6,
+        "spacing": 18
+      },
+      "friendsandfoes:iceologer_cabin": {
+        "disabled": false,
+        "salt": 516979219,
+        "separation": 10,
+        "spacing": 40
+      },
+      "friendsandfoes:illusioner_shack": {
+        "disabled": false,
+        "salt": 365262534,
+        "separation": 10,
+        "spacing": 40
+      },
+      "friendsandfoes:illusioner_training_grounds": {
+        "disabled": false,
+        "salt": 819729564,
+        "separation": 10,
+        "spacing": 40
+      },
+      "minecraft:abandoned_camp": {
+        "disabled": false,
+        "salt": 91231127,
+        "separation": 8,
+        "spacing": 37
+      },
+      "minecraft:ancient_cities": {
+        "disabled": false,
+        "salt": 20083232,
+        "separation": 8,
+        "spacing": 24
+      },
+      "minecraft:buried_treasures": {
+        "disabled": false,
+        "salt": 0,
+        "separation": 0,
+        "spacing": 1
+      },
+      "minecraft:desert_pyramids": {
+        "disabled": false,
+        "salt": 14357617,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:igloos": {
+        "disabled": false,
+        "salt": 14357618,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:jungle_temples": {
+        "disabled": false,
+        "salt": 14357619,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:mineshafts": {
+        "disabled": false,
+        "salt": 0,
+        "separation": 0,
+        "spacing": 1
+      },
+      "minecraft:ocean_monuments": {
+        "disabled": false,
+        "salt": 10387313,
+        "separation": 5,
+        "spacing": 32
+      },
+      "minecraft:ocean_ruins": {
+        "disabled": false,
+        "salt": 14357621,
+        "separation": 8,
+        "spacing": 20
+      },
+      "minecraft:pillager_outposts": {
+        "disabled": false,
+        "salt": 165745296,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:ruined_portals": {
+        "disabled": false,
+        "salt": 34222645,
+        "separation": 15,
+        "spacing": 40
+      },
+      "minecraft:shipwrecks": {
+        "disabled": false,
+        "salt": 165745295,
+        "separation": 4,
+        "spacing": 24
+      },
+      "minecraft:swamp_huts": {
+        "disabled": false,
+        "salt": 14357620,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:trail_ruins": {
+        "disabled": false,
+        "salt": 83469867,
+        "separation": 8,
+        "spacing": 34
+      },
+      "minecraft:trial_chambers": {
+        "disabled": false,
+        "salt": 94251327,
+        "separation": 12,
+        "spacing": 34
+      },
+      "minecraft:villages": {
+        "disabled": false,
+        "salt": 10387312,
+        "separation": 8,
+        "spacing": 34
+      },
+      "minecraft:woodland_mansions": {
+        "disabled": false,
+        "salt": 10387319,
+        "separation": 20,
+        "spacing": 80
+      }
+    }
+  },
+  "surface": {
+    "erosion": {
+      "dirtMin": 95,
+      "dirtSteepness": 0.475,
+      "dirtVariance": 40,
+      "heightModifier": 6.0,
+      "rockMin": 140,
+      "rockSteepness": 0.65,
+      "rockVariance": 30,
+      "screeSteepness": 0.4,
+      "slopeModifier": 3.0,
+      "snowHeight": 95,
+      "snowSteepness": 0.45
+    }
+  },
+  "terrain": {
+    "badlands": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.0
+    },
+    "dales": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.5
+    },
+    "general": {
+      "fancyMountains": true,
+      "globalHorizontalScale": 1.0,
+      "globalVerticalScale": 0.98,
+      "terrainRegionSize": 1200,
+      "terrainSeedOffset": 0
+    },
+    "hills": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "mountains": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.5
+    },
+    "plains": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "plateau": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.5
+    },
+    "steppe": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.0
+    },
+    "torridonian": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "volcano": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 5.0
+    }
+  },
+  "world": {
+    "continent": {
+      "continentJitter": 0.55,
+      "continentScale": 20000,
+      "continentType": "MULTI"
+    },
+    "controlPoints": {
+      "beach": 0.22,
+      "coast": 0.28,
+      "deepOcean": 0.1,
+      "inland": 0.5,
+      "islandInland": 0.1,
+      "shallowOcean": 0.18
+    },
+    "properties": {
+      "seaLevel": 63,
+      "spawnType": "CONTINENT_CENTER",
+      "worldHeight": 320
+    }
+  },
+  "coverage": {
+    "enabled": true,
+    "adaptiveSize": false,
+    "radiusBlocks": 50000,
+    "patchRadiusBlocks": 256,
+    "slotSpacingBlocks": 1024,
+    "verifyOnWorldStart": false,
+    "verifyConcurrency": 1,
+    "prepareConcurrency": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "distance_damage": 8.0,
+  "distance_distance": 16,
+  "distance_cooldown": 10.0,
+  "distance_experience_level": 5,
+  "distance_remove_experience": -55,
+  "distance_durability": 500,
+  "distance_use_time": 10,
+  "area_damage": 12.0,
+  "area_radius": 3.5,
+  "area_cooldown": 15.0,
+  "area_experience_level": 5,
+  "area_remove_experience": -55,
+  "area_durability": 350,
+  "area_speed_duration": 30,
+  "area_speed_amplifier": 0,
+  "both_in_cooldown": true
+}

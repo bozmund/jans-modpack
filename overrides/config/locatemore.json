@@ -1,0 +1,11 @@
+{
+  "wallClockSeconds": 60,
+  "maxDistanceBlocks": 1000000,
+  "maxCount": 100,
+  "maxActiveSearches": 2,
+  "allowProbeChunkGeneration": true,
+  "improveVanillaLocate": true,
+  "biomeMaxDistanceBlocks": 12800,
+  "biomeSeparationBlocks": 512,
+  "deathMark": true
+}

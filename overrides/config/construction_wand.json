@@ -1,0 +1,41 @@
+{
+  "maxRange": 100,
+  "maxInfinityCreativeRange": 2048,
+  "undoHistorySize": 3,
+  "similarBlocks": [
+    "minecraft:dirt;minecraft:grass_block;minecraft:coarse_dirt;minecraft:podzol;minecraft:mycelium;minecraft:farmland;minecraft:dirt_path;minecraft:rooted_dirt"
+  ],
+  "angelFalling": false,
+  "whitelist": false,
+  "blockEntityList": [
+    "chiselsandbits"
+  ],
+  "stoneWand": {
+    "upgradeable": false,
+    "durability": 131,
+    "range": 9,
+    "angelDistance": 0,
+    "destructionLimit": 0
+  },
+  "ironWand": {
+    "upgradeable": true,
+    "durability": 250,
+    "range": 27,
+    "angelDistance": 2,
+    "destructionLimit": 9
+  },
+  "diamondWand": {
+    "upgradeable": true,
+    "durability": 1561,
+    "range": 128,
+    "angelDistance": 8,
+    "destructionLimit": 25
+  },
+  "infinityWand": {
+    "upgradeable": true,
+    "durability": -1,
+    "range": 1024,
+    "angelDistance": 16,
+    "destructionLimit": 81
+  }
+}

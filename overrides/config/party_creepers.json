@@ -1,0 +1,6 @@
+{
+  "preventTerrainDamage": true,
+  "damageEntities": "LIVING_ONLY",
+  "confettiChance": 1.0,
+  "dustParticles": true
+}
