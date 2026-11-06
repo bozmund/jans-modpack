@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 2,
-  "version": "2026.11.04-2",
+  "build": 3,
+  "version": "2026.11.06-1",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -5689,7 +5689,7 @@
       "size": 2061691,
       "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e4f787f76f4d5da6-PandasFallingTrees-1.0.0+26.3-grounded.3.jar",
       "policy": "managed",
-      "name": "Panda's Falling Trees — Grounded",
+      "name": "Panda's Falling Trees \u2014 Grounded",
       "version": "1.0.0+26.3-grounded.1",
       "project": "fallingtrees",
       "mod_id": "fallingtrees",
@@ -5901,9 +5901,9 @@
     },
     {
       "path": "mods/antarchy-2.2.9+26.3-fabric.jar",
-      "sha512": "b69be30c444614e99ed420dfc8368d37dc2c055ee7bd3a850721d33c3673a85c6e61b90beda4a7fce1399ab348807b463b599a9388b3d889511e362447bd37e4",
-      "size": 71846817,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/b69be30c444614e9-antarchy-2.2.9+26.3-fabric.jar",
+      "sha512": "ddfabe42f6f14c1da5abb19ae2e8317851abba22ef2ceddcc4d33d297b7f182d48aa32ba4a29b579e37974edcf833c3eeb1f7c5d0749aed115f2defa85ff939a",
+      "size": 71768010,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ddfabe42f6f14c1d-antarchy-2.2.9+26.3-fabric.jar",
       "policy": "managed",
       "name": "Antarchy",
       "version": "2.2.9+26.3-fabric",
@@ -6717,9 +6717,9 @@
     },
     {
       "path": "mods/jansqol-1.0.0+26.3.jar",
-      "sha512": "9985c367777477dc707b086ea7248da59649549eac8920eae6cd8c03e2b21efd7fc6acb50afb7bc179292eff23b806f048a9387b8ad714beb8d1cb37e26fa54f",
-      "size": 12750449,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9985c367777477dc-jansqol-1.0.0+26.3.jar",
+      "sha512": "dcf113232e995a05e8c0cd441f74b57d245d0c06a2370b6a96f6fb12bfcad4d5b122bbf5e3461d5736a6006d69d74778a74497e72b2d018ab50f6766b4973529",
+      "size": 12766857,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/dcf113232e995a05-jansqol-1.0.0+26.3.jar",
       "policy": "managed",
       "name": "Jansqol",
       "version": "1.0.0+26.3",
@@ -7077,9 +7077,9 @@
     },
     {
       "path": "mods/reterraforged-0.0.8+26.3.jar",
-      "sha512": "ca5ff5113d02545f7d136fa55d3f4e6684c382360e521bd2ef293861c7ee4273148d3e4be7a274d1924fbb3a52b683a7d2841c2916e843f4e3b674ea01e1198c",
-      "size": 1677688,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ca5ff5113d02545f-reterraforged-0.0.8+26.3.jar",
+      "sha512": "edf0a8c17faba269df787285a149f52d467d61c118b7283a05414fbe47853c1381440ec3790f62b53f32162ca63742c436da393050057b11229c204c95234a8f",
+      "size": 1678665,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/edf0a8c17faba269-reterraforged-0.0.8+26.3.jar",
       "policy": "managed",
       "name": "ReTerraForged",
       "version": "0.0.8+26.3",
@@ -7113,9 +7113,9 @@
     },
     {
       "path": "mods/simple-clouds-0.7.3+26.3-fabric.jar",
-      "sha512": "5d30fb2506c00febf370c76060ef90f8b421480f5cc9a9574723a9ca395a2da5fcdd27cb566d4bc685f462a582b653b6a172b7f3169b27a6efc00aeb6e0a340b",
-      "size": 6655062,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5d30fb2506c00feb-simple-clouds-0.7.3+26.3-fabric.jar",
+      "sha512": "4517c5242cb9b6ff531848ca34568938db0a1bc215f75c04eaebd0ede8f524b9a6bf6963a5d201417db05fbc25afba651eda81918ec814c53f62ade0f1833cd4",
+      "size": 6674776,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/4517c5242cb9b6ff-simple-clouds-0.7.3+26.3-fabric.jar",
       "policy": "managed",
       "name": "Simple Clouds",
       "version": "0.7.3+26.3-fabric",
@@ -7589,7 +7589,7 @@
       "source": "modrinth"
     },
     {
-      "path": "resourcepacks/LowOnFire v26.2§8.zip",
+      "path": "resourcepacks/LowOnFire v26.2\u00a78.zip",
       "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
       "size": 42760,
       "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
@@ -7620,6 +7620,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 3,
+      "version": "2026.11.06-1",
+      "date": "2026-11-06",
+      "text": "Fix cloud damage-camera projection; repair Antarchy worldgen bounds and Ultimate Mace model; restore actual Alex cave cavities and direct-generation preparation; move Atlas accessory slot and ship previously tested anvil/enchanting/Atlas fixes. Native Linux and Windows checks passed; cave generation tests concern new chunks."
+    },
     {
       "build": 2,
       "version": "2026.11.04-2",
