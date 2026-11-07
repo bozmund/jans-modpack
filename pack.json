@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 4,
-  "version": "2026.11.07-1",
+  "build": 5,
+  "version": "2026.11.07-2",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -5689,7 +5689,7 @@
       "size": 2061691,
       "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e4f787f76f4d5da6-PandasFallingTrees-1.0.0+26.3-grounded.3.jar",
       "policy": "managed",
-      "name": "Panda's Falling Trees — Grounded",
+      "name": "Panda's Falling Trees \u2014 Grounded",
       "version": "1.0.0+26.3-grounded.1",
       "project": "fallingtrees",
       "mod_id": "fallingtrees",
@@ -6296,15 +6296,15 @@
       "source": "github"
     },
     {
-      "path": "mods/create-fly-26.3-6.0.9-1.jar",
-      "sha512": "797a5772c261b04e9194314d1e9be350e001ab09c2c178588ca4bb6deaf32ac2e5f9f1331748bbda1ec6c27c62d741cdfa6c7afbfd5795159f69912e8c723287",
-      "size": 21145820,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/797a5772c261b04e-create-fly-26.3-6.0.9-1.jar",
+      "path": "mods/create-fly-26.3-6.0.9-2-jan1.jar",
+      "sha512": "f5fd8aad6a1cae3968321fdd9d32fa3f401235a549b679c3515a3f93db037dfc28e15b2c57ffe44b514960e1babeb1d043427db4ae12f05ecaafc723d284338f",
+      "size": 21508878,
       "policy": "managed",
       "name": "Create Fly",
-      "version": "6.0.9-1",
+      "version": "6.0.9-2-jan1",
       "project": "create",
       "mod_id": "create",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f5fd8aad6a1cae39-create-fly-26.3-6.0.9-2-jan1.jar",
       "source": "github"
     },
     {
@@ -6692,6 +6692,18 @@
       "source": "modrinth"
     },
     {
+      "path": "mods/jans-weather-glass-compat-0.1.0+26.3.jar",
+      "sha512": "9aaba0d4c01e4c55656c6b9d7670a1e50a16e5a7689c832208c8bced0abf9d5e337c39f7c301db264e0e5e1d247c71fe2e978cb40207d3549b4c8182c567c99b",
+      "size": 5280,
+      "policy": "managed",
+      "name": "Weather Glass - Simple Clouds compatibility",
+      "version": "0.1.0+26.3",
+      "project": "jans_weather_glass_compat",
+      "mod_id": "jans_weather_glass_compat",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9aaba0d4c01e4c55-jans-weather-glass-compat-0.1.0+26.3.jar",
+      "source": "github"
+    },
+    {
       "path": "mods/jansdiag-1.0.0.jar",
       "sha512": "b8f72a2077b71555f9a1bec48ac8da145b9b20c7ee2a228fca5030e6b80df5a6c6de4f808befe3f1223aacbf93cdac3ecf12cc72b9f7d50cbbcca31bf66fac10",
       "size": 10821,
@@ -6977,6 +6989,18 @@
       "version": "1.0.1+26.3",
       "project": "nomendubium",
       "mod_id": "nomendubium",
+      "source": "github"
+    },
+    {
+      "path": "mods/pet-cemetery-3.0.1+26.3-fabric-dev.jar",
+      "sha512": "912ff86771047d1ab9c64b978bcf78957efc98182c5fb31cd4e23cc07403b31721406b114dbe8a7fe14c3e5f07f9b1008c88dd5cf6e0f2f6ad647424af2e33cd",
+      "size": 311388,
+      "policy": "managed",
+      "name": "Pet Cemetery",
+      "version": "3.0.1+26.3-fabric-dev",
+      "project": "pet_cemetery",
+      "mod_id": "pet_cemetery",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/912ff86771047d1a-pet-cemetery-3.0.1+26.3-fabric-dev.jar",
       "source": "github"
     },
     {
@@ -7508,6 +7532,17 @@
       "source": "modrinth"
     },
     {
+      "path": "mods/weatherglass-0.5.0-26.3-fabric.jar",
+      "sha512": "56f3713dedc5f9d23e41a541d1a34762bd113fb991ee4838dc717565f7c4d32c3d6e6bba8c66d2314d261518969ba950690800ff680ee8ac59f824cb9e7e4cf6",
+      "size": 331596,
+      "policy": "managed",
+      "name": "Weather Glass",
+      "version": "0.5.0+26.3-fabric",
+      "project": "weatherglass",
+      "mod_id": "weatherglass",
+      "url": "https://edge.forgecdn.net/files/9383/208/weatherglass-0.5.0-26.3-fabric.jar"
+    },
+    {
       "path": "mods/wits-1.4.3+26.3-fabric.jar",
       "sha512": "3594a8e7194cc5a70bf2800f272272bd858ff41aaeb4571a95bbbc89e3fa5f21f76e8937cb9da252f8810c999ee6c287471641194199fee0cb9718e2c6a6a994",
       "size": 13572,
@@ -7601,7 +7636,7 @@
       "source": "modrinth"
     },
     {
-      "path": "resourcepacks/LowOnFire v26.2§8.zip",
+      "path": "resourcepacks/LowOnFire v26.2\u00a78.zip",
       "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
       "size": 42760,
       "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
@@ -7632,6 +7667,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 5,
+      "version": "2026.11.07-2",
+      "date": "2026-11-07",
+      "text": "Add Pet Cemetery and Weather Glass with Simple Clouds local-storm compatibility; update Create Fly with renderer and recipe lifecycle repairs. Native pet gameplay/save/rejoin passed on Linux; Weather Glass/Create checks passed on Linux and Windows. Existing player configurations are preserved."
+    },
     {
       "build": 4,
       "version": "2026.11.07-1",
