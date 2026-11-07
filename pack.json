@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 3,
-  "version": "2026.11.06-1",
+  "build": 4,
+  "version": "2026.11.07-1",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -5433,9 +5433,9 @@
     },
     {
       "path": "mods/Cobblemon-fabric-1.8.3+26.3-port.jar",
-      "sha512": "4ea9846f28593dfcf79cad1c824c1b7434ed203fcdebc88a0c549d3cc7791ce1267e91aa0cb55cbf2b73201e133aabc16ed667efc8f738528deebd4636f6a499",
-      "size": 147050879,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/4ea9846f28593dfc-Cobblemon-fabric-1.8.3+26.3-port.jar",
+      "sha512": "21434afdd0a110098f99332db94f4f309d4c660f070d4f92da11908f1290ceb099fb503576b3bb9a443ae7ebc7bbe2288964321726b46fda92c3d5e7a7ab6a3c",
+      "size": 147053748,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/21434afdd0a11009-Cobblemon-fabric-1.8.3+26.3-port.jar",
       "policy": "managed",
       "name": "Cobblemon",
       "version": "1.8.3+26.3-fabric-26.3-bf0373c",
@@ -5689,7 +5689,7 @@
       "size": 2061691,
       "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e4f787f76f4d5da6-PandasFallingTrees-1.0.0+26.3-grounded.3.jar",
       "policy": "managed",
-      "name": "Panda's Falling Trees \u2014 Grounded",
+      "name": "Panda's Falling Trees — Grounded",
       "version": "1.0.0+26.3-grounded.1",
       "project": "fallingtrees",
       "mod_id": "fallingtrees",
@@ -6393,9 +6393,9 @@
     },
     {
       "path": "mods/druidcraftrg-0.0.14+26.3-fabric.jar",
-      "sha512": "ab418bff240949dcf34aa60ad6f4382d7b22e229cd9497408be8fb64bd7e2bbd167f2f5fc67248c9589e0c80dfa014e32371fcc72487c9e4ae96fdc3f5ddc48b",
-      "size": 1247529,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ab418bff240949dc-druidcraftrg-0.0.14+26.3-fabric.jar",
+      "sha512": "5c6f9b07f815fe33ff53a042e064a91d669b1c46668287582aa0b1efd5b1d6bc4f93f4fe20b4fc0c6caa6f29eeab0aab038a33a0dc4a984d132140d7ad55a330",
+      "size": 1252325,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5c6f9b07f815fe33-druidcraftrg-0.0.14+26.3-fabric.jar",
       "policy": "managed",
       "name": "Druidcraft Regrown",
       "version": "0.0.14+26.3-fabric",
@@ -6705,9 +6705,9 @@
     },
     {
       "path": "mods/jansfixes-1.0.0+26.3.jar",
-      "sha512": "233c457dc3f9f9fa26d6110db7a56e11a9663460d6767894169a5ed2b6556300e9dc7e9eff133f793d2f5bbf0ac8441e4a93740e849b8a55a3079a155c42538d",
-      "size": 19062,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/233c457dc3f9f9fa-jansfixes-1.0.0+26.3.jar",
+      "sha512": "7d3c718bb76300542bbe4a3ca5781e15e3b45adca283957d4990a06d91c28104abfd5b07fdbb9442d7167eeaedeafc99f80c064ae1a0a6790d7f79635abf7318",
+      "size": 24351,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/7d3c718bb7630054-jansfixes-1.0.0+26.3.jar",
       "policy": "managed",
       "name": "Jans Fixes",
       "version": "1.0.0",
@@ -6717,9 +6717,9 @@
     },
     {
       "path": "mods/jansqol-1.0.0+26.3.jar",
-      "sha512": "dcf113232e995a05e8c0cd441f74b57d245d0c06a2370b6a96f6fb12bfcad4d5b122bbf5e3461d5736a6006d69d74778a74497e72b2d018ab50f6766b4973529",
-      "size": 12766857,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/dcf113232e995a05-jansqol-1.0.0+26.3.jar",
+      "sha512": "d7efe8450dd5776d287a49765656fbab50a63d5d9b809f869993cec4e89b2146176895c4ea25aa61b7d2562e89a5b3c3ca3913b237624d57f4b54e213130f8c4",
+      "size": 12766185,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/d7efe8450dd5776d-jansqol-1.0.0+26.3.jar",
       "policy": "managed",
       "name": "Jansqol",
       "version": "1.0.0+26.3",
@@ -6762,6 +6762,18 @@
       "project": "7uh75ruZ",
       "mod_id": "kleeslabs",
       "source": "modrinth"
+    },
+    {
+      "path": "mods/lambdynamiclights-4.13.0+26.3.jar",
+      "policy": "managed",
+      "name": "LambDynamicLights",
+      "version": "4.13.0+26.3",
+      "project": "lambdynamiclights",
+      "mod_id": "lambdynlights",
+      "sha512": "67c37ca7d619bd7f2b0dc02217070c20e34fb3bb3363d4e23f5ef9ca90b1b58adb223fab73639a3499d366497316f1eb297d2759f3ffb976467b4759f784619d",
+      "size": 1345715,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/67c37ca7d619bd7f-lambdynamiclights-4.13.0+26.3.jar",
+      "source": "github"
     },
     {
       "path": "mods/lithium-fabric-0.26.3+mc26.3.jar",
@@ -6969,9 +6981,9 @@
     },
     {
       "path": "mods/placebo-10.0.2+26.3-fabric.jar",
-      "sha512": "cce5c28d88edc0f7bfbac086f720437b12408b17ff2869fecb4ee1233fa2502898073a3829e9201d1ddef89ca30fa6ad89cd68bde8f4e1c8f81214aaa6f537a2",
-      "size": 1106617,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/cce5c28d88edc0f7-placebo-10.0.2+26.3-fabric.jar",
+      "sha512": "ab6724f1c1f9921ca30e785e8700d003e929d7e94c4150d32789af5d2f0ca5786fd7d98b60062e705447a71b0e8bfdad6b4fc6d64bdda5eafbdcbf172da4d660",
+      "size": 1106492,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ab6724f1c1f9921c-placebo-10.0.2+26.3-fabric.jar",
       "policy": "managed",
       "name": "Placebo",
       "version": "10.0.2+26.3-fabric",
@@ -7113,9 +7125,9 @@
     },
     {
       "path": "mods/simple-clouds-0.7.3+26.3-fabric.jar",
-      "sha512": "4517c5242cb9b6ff531848ca34568938db0a1bc215f75c04eaebd0ede8f524b9a6bf6963a5d201417db05fbc25afba651eda81918ec814c53f62ade0f1833cd4",
-      "size": 6674776,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/4517c5242cb9b6ff-simple-clouds-0.7.3+26.3-fabric.jar",
+      "sha512": "5290792f409df423ec8222c00a5ebe925c124f3709c20dc00a594c6f7c9f5e72c5d308d4c4cea637c8c787e394c82cf53f7e4193263b90f8ac0e08e24769f589",
+      "size": 6662188,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5290792f409df423-simple-clouds-0.7.3+26.3-fabric.jar",
       "policy": "managed",
       "name": "Simple Clouds",
       "version": "0.7.3+26.3-fabric",
@@ -7329,9 +7341,9 @@
     },
     {
       "path": "mods/terracraft-0.1.0.jar",
-      "sha512": "24bc054a6b2b0c0b502c69a1d2ef9d0d25fed2d9ef17025083239809a86000d7751700cca5c5e58867178266a3b567bdfb8995af8b7d91ba64cbc7417aa90283",
-      "size": 91703,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/24bc054a6b2b0c0b-terracraft-0.1.0.jar",
+      "sha512": "e9d28f5839d444641145c8874b4a52aa46a77ba7d87b4f879948f948bc716bb901a62347ccc16771d90d65d52c532623b459141c297825336d05e60f5f61e214",
+      "size": 91366,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e9d28f5839d44464-terracraft-0.1.0.jar",
       "policy": "managed",
       "name": "Terraria Crafting",
       "version": "0.1.0",
@@ -7589,7 +7601,7 @@
       "source": "modrinth"
     },
     {
-      "path": "resourcepacks/LowOnFire v26.2\u00a78.zip",
+      "path": "resourcepacks/LowOnFire v26.2§8.zip",
       "sha512": "713a20a8171c8249c30d9eb72342162754c627c7a86dc0971cb555faf43c322c181fd5546e0c770fc9ae922161ee846a7af951267c1d9a8a75af466a17e19d5e",
       "size": 42760,
       "url": "https://cdn.modrinth.com/data/RRxvWKNC/versions/yQdcUfnr/LowOnFire%20v26.2%C2%A78.zip",
@@ -7620,6 +7632,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 4,
+      "version": "2026.11.07-1",
+      "date": "2026-11-07",
+      "text": "Repair vanilla and chitin shield blocking; add tiered hoe plant harvesting and Druidcraft guides; speed up crate search; fix Terraria ingredient Shift-click and hide modifier placeholders; hide undiscovered Pokemon names in Jade; clarify Pokemon drop rolls; add carried dynamic lights and repair rain/storm fog depth without shaders. Native Linux and Windows regressions passed. Existing player configurations are preserved."
+    },
     {
       "build": 3,
       "version": "2026.11.06-1",

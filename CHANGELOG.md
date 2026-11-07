@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.07-1 (build 4, 2026-11-07)
+
+Repair vanilla and chitin shield blocking; add tiered hoe plant harvesting and Druidcraft guides; speed up crate search; fix Terraria ingredient Shift-click and hide modifier placeholders; hide undiscovered Pokemon names in Jade; clarify Pokemon drop rolls; add carried dynamic lights and repair rain/storm fog depth without shaders. Native Linux and Windows regressions passed. Existing player configurations are preserved.
+
 ## 2026.11.06-1 (build 3, 2026-11-06)
 
 Fix cloud damage-camera projection; repair Antarchy worldgen bounds and Ultimate Mace model; restore actual Alex cave cavities and direct-generation preparation; move Atlas accessory slot and ship previously tested anvil/enchanting/Atlas fixes. Native Linux and Windows checks passed; cave generation tests concern new chunks.
