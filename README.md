@@ -1,5 +1,5 @@
 # Jan's Fabric modpack
 
-Install Jan's Launcher, choose your existing Fabric 26.3 Modrinth profile, then Check for changes and Update. Until Microsoft login is approved, use Play in Modrinth. Close Minecraft before updating. User config files are installed only when missing.
+Install Jan's Launcher, sign in with your Microsoft account that owns Minecraft, then check for pack changes, update and play. The standalone launcher supports Minecraft sign-in. The separate updater can also maintain an existing Fabric 26.3 Modrinth profile. Close Minecraft before updating.
 
-Release metadata and changelogs live here. Custom binary files live in the pack's files release; they are not Git source files.
+User configuration files are copied only when missing, so personal settings survive updates. Release metadata and changelogs live here; custom binary files are downloaded from the pack's immutable, checksum-verified GitHub Release assets.

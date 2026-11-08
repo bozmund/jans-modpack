@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.08-1 (build 6, 2026-11-08)
+
+Synchronize the tested pack inventory, including updated dependencies and prepared mod repairs. Fix immediate Terraria crafting refresh; cloud/Distant Horizons occlusion; Cobblemon particle mapping, mint names, safe player-data handling and Self-Destruct/Explosion animations; ash willow offline growth and Moonlight shutdown; Supplementaries road-sign saving; Alex’s Caves rainbow shader corruption. Repair Anthology animation tracking for unassigned-ID cage preview entities. Targeted Linux/Windows native regressions and shader captures are recorded; these are not exhaustive tests of every mod or shader pack. Existing player configurations are preserved.
+
 ## 2026.11.07-2 (build 5, 2026-11-07)
 
 Add Pet Cemetery and Weather Glass with Simple Clouds local-storm compatibility; update Create Fly with renderer and recipe lifecycle repairs. Native pet gameplay/save/rejoin passed on Linux; Weather Glass/Create checks passed on Linux and Windows. Existing player configurations are preserved.
