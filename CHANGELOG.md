@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.08-2 (build 7, 2026-11-08)
+
+Fix the crash when creating the first map texture; preserve biome-tinted map colours and subsequent map refreshes. Optimize BetterGrassify snow-neighbour checks without reducing configured layers or changing the selected visual result. Native map tests pass on Linux and Windows; original-versus-optimized snow checks pass 1,104 Linux and 816 Windows comparisons. Controlled snow-neighbour tests show lower temporary allocation; overall live FPS impact is still being measured. Previous cage and road-sign fixes are retained. Existing player settings are preserved.
+
 ## 2026.11.08-1 (build 6, 2026-11-08)
 
 Synchronize the tested pack inventory, including updated dependencies and prepared mod repairs. Fix immediate Terraria crafting refresh; cloud/Distant Horizons occlusion; Cobblemon particle mapping, mint names, safe player-data handling and Self-Destruct/Explosion animations; ash willow offline growth and Moonlight shutdown; Supplementaries road-sign saving; Alex’s Caves rainbow shader corruption. Repair Anthology animation tracking for unassigned-ID cage preview entities. Targeted Linux/Windows native regressions and shader captures are recorded; these are not exhaustive tests of every mod or shader pack. Existing player configurations are preserved.
