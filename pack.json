@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 7,
-  "version": "2026.11.08-2",
+  "build": 8,
+  "version": "2026.11.09-1",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -6753,9 +6753,9 @@
     },
     {
       "path": "mods/jansfixes-1.0.0+26.3.jar",
-      "sha512": "e070c016513b9ab18d512e25e308c73ecc170aa127151891e2a3038b9334f39aab26941af68c568144437f43dceb980e1c95e543522b3af6bddea8954a9b7046",
-      "size": 27707,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e070c016513b9ab1-jansfixes-1.0.0%2B26.3.jar",
+      "sha512": "e454bdd8ea952c52e3f3bc5c59b0f3fad4467e39167c248d9681435b6876baa37c23bcc2dc240e2704fedd05fece55eb60433d65c707f8ba36175628383ed530",
+      "size": 31125,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e454bdd8ea952c52-jansfixes-1.0.0%2B26.3.jar",
       "policy": "managed",
       "name": "Jans Fixes",
       "version": "1.0.0",
@@ -7185,9 +7185,9 @@
     },
     {
       "path": "mods/reterraforged-0.0.8+26.3.jar",
-      "sha512": "edf0a8c17faba269df787285a149f52d467d61c118b7283a05414fbe47853c1381440ec3790f62b53f32162ca63742c436da393050057b11229c204c95234a8f",
-      "size": 1678665,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/edf0a8c17faba269-reterraforged-0.0.8+26.3.jar",
+      "sha512": "2e14f38bcd2fc7740078d0f44d7a8fdd1e4f244dcb2565bb3696bb75bb5d7db72c0c7f323b452dac68794cc614eb86bee378e679e1a750bc14c26bea94876194",
+      "size": 1661707,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2e14f38bcd2fc774-reterraforged-0.0.8%2B26.3.jar",
       "policy": "managed",
       "name": "ReTerraForged",
       "version": "0.0.8+26.3",
@@ -7751,6 +7751,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 8,
+      "version": "2026.11.09-1",
+      "date": "2026-11-09",
+      "text": "Repair existing worlds rejected by duplicate Sift clock markers in older ReTerraForged preset exports. Filter only the recognized obsolete copied timeline in memory while preserving the installed Sift tide cycle and saved terrain configuration. Fix the actual preset GUI exporter to emit its registry patches instead of copying unrelated mods’ merged registry snapshots. Existing save archives and player settings are not rewritten. Native old-world registry and GUI-export checks pass on Linux and Windows; the new export also reloads on Linux. These are not exhaustive gameplay tests."
+    },
     {
       "build": 7,
       "version": "2026.11.08-2",

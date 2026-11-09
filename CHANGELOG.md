@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.09-1 (build 8, 2026-11-09)
+
+Repair existing worlds rejected by duplicate Sift clock markers in older ReTerraForged preset exports. Filter only the recognized obsolete copied timeline in memory while preserving the installed Sift tide cycle and saved terrain configuration. Fix the actual preset GUI exporter to emit its registry patches instead of copying unrelated mods’ merged registry snapshots. Existing save archives and player settings are not rewritten. Native old-world registry and GUI-export checks pass on Linux and Windows; the new export also reloads on Linux. These are not exhaustive gameplay tests.
+
 ## 2026.11.08-2 (build 7, 2026-11-08)
 
 Fix the crash when creating the first map texture; preserve biome-tinted map colours and subsequent map refreshes. Optimize BetterGrassify snow-neighbour checks without reducing configured layers or changing the selected visual result. Native map tests pass on Linux and Windows; original-versus-optimized snow checks pass 1,104 Linux and 816 Windows comparisons. Controlled snow-neighbour tests show lower temporary allocation; overall live FPS impact is still being measured. Previous cage and road-sign fixes are retained. Existing player settings are preserved.
