@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 9,
-  "version": "2026.11.11-1",
+  "build": 10,
+  "version": "2026.11.11-2",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -2401,7 +2401,7 @@
     },
     {
       "path": "config/druidcraftrg-common.properties",
-      "sha512": "7af67531b15b22e80bf3fc05e0018778b47e05d9d556959d6473bfa4672e4ba40a8bfc9dfa7ee1cbdb9a31b0b4ec869edd0fa0ac4ffbf7280e384e62404b68d3",
+      "sha512": "f5c59bf0c5a768dcb218ffcf90764858514d82b87855e8db99eaa3d2862a8b72bf4473b1658b786401acfb43fd722be52172fb35cd083a4a754bbe85bda6539f",
       "size": 258,
       "url": "overrides/config/druidcraftrg-common.properties",
       "policy": "once",
@@ -3257,7 +3257,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "sha512": "a4e18806e3e87a726ae1cba41850569dfc5ae16b6557915c83c59fcf8f8f26406dd33d2427c19749d8420f4c59d33dad0f344cfd6e50cfdb61fc9506f618e5da",
+      "sha512": "5c8952310d591641e5a7141b8dffa1f10a42c773bfd41525b96271a25eba7ea8b91223a8328f55843c67be9d493c28fb470eb8ead4cf4f3deaacc2a7c8ef58f5",
       "size": 535,
       "url": "overrides/config/packetfixer.properties",
       "policy": "once",
@@ -3713,7 +3713,7 @@
     },
     {
       "path": "config/sizeable_foliage.properties",
-      "sha512": "b81ffccb5b52a8c2d7863ee76e1f50f5020c71513d52b9374c5caa67d291c2d31bd53a215ea3b285afbdcf4f237c00df7f23c5a022bcb9fc03438006da9ea936",
+      "sha512": "07b23ab0238b402df67b3a567406f6020ba7f91fae054160288aaa7e6ff4c0ad352df52d0237d8c20a6c5721f82ed3c6d0b3a6d6ae38ba796c8d9acced3813e1",
       "size": 83,
       "url": "overrides/config/sizeable_foliage.properties",
       "policy": "once",
@@ -4449,7 +4449,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "sha512": "feb6847c8e71be57c5dc61daef7e57d1b100a7a413e845ced57c9d5780f186c49351c74b03e4508b472464f1dde26daa6e3e1a6b94f44b741a975f6b2e0bc552",
+      "sha512": "019d3e8c90fb7b6479cfa06a11dbcf7065a096a28978071f19b45b90652bebcfb419113445d6f3a3e03214fd27398cdc27946a3113506d93328ffc8123213e1b",
       "size": 390,
       "url": "overrides/config/vmp.properties",
       "policy": "once",
@@ -7276,13 +7276,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/reterraforged-0.0.8+26.3.jar",
-      "sha512": "2e14f38bcd2fc7740078d0f44d7a8fdd1e4f244dcb2565bb3696bb75bb5d7db72c0c7f323b452dac68794cc614eb86bee378e679e1a750bc14c26bea94876194",
-      "size": 1661707,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2e14f38bcd2fc774-reterraforged-0.0.8+26.3.jar",
+      "path": "mods/reterraforged-0.0.8+26.3-mixinfix.1.jar",
+      "sha512": "617091857e19a4572207bcabce03ad2fd02c6610ed1f1640f7a8f4cefab2b6ee536f29044febc3d9ff1276fcad413124e377aef4384e7e6b1f3ce7019a4690c6",
+      "size": 1661400,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/617091857e19a457-reterraforged-0.0.8+26.3-mixinfix.1.jar",
       "policy": "managed",
       "name": "ReTerraForged",
-      "version": "0.0.8+26.3",
+      "version": "0.0.8+26.3-mixinfix.1",
       "project": "reterraforged",
       "mod_id": "reterraforged",
       "source": "github"
@@ -7856,6 +7856,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 10,
+      "version": "2026.11.11-2",
+      "date": "2026-11-11",
+      "text": "ReTerraForged mixin fix for Fabric API 0.166.2 (BiomeModificationImpl.getSortedModifiers now takes RegistryAccess)."
+    },
     {
       "build": 9,
       "version": "2026.11.11-1",

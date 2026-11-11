@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.11-2 (build 10, 2026-11-11)
+
+ReTerraForged mixin fix for Fabric API 0.166.2 (BiomeModificationImpl.getSortedModifiers now takes RegistryAccess).
+
 ## 2026.11.11-1 (build 9, 2026-11-11)
 
 Sync with Jan's live profile: Fabric API 0.166.2, Collective 8.86, MezzConfig 0.7.1, Mielon's The Sift 2.0.3, Carry On 2.12.2, Mendable Anvils 1.2.5, Metal Bundles 26.3.4, Villager Names 9.0; add Roguelike Dungeons 2.1.2; jansfixes 1.1.0 (DH dimension gate).
