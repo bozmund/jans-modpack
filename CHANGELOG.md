@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.11-1 (build 9, 2026-11-11)
+
+Sync with Jan's live profile: Fabric API 0.166.2, Collective 8.86, MezzConfig 0.7.1, Mielon's The Sift 2.0.3, Carry On 2.12.2, Mendable Anvils 1.2.5, Metal Bundles 26.3.4, Villager Names 9.0; add Roguelike Dungeons 2.1.2; jansfixes 1.1.0 (DH dimension gate).
+
 ## 2026.11.09-1 (build 8, 2026-11-09)
 
 Repair existing worlds rejected by duplicate Sift clock markers in older ReTerraForged preset exports. Filter only the recognized obsolete copied timeline in memory while preserving the installed Sift tide cycle and saved terrain configuration. Fix the actual preset GUI exporter to emit its registry patches instead of copying unrelated mods’ merged registry snapshots. Existing save archives and player settings are not rewritten. Native old-world registry and GUI-export checks pass on Linux and Windows; the new export also reloads on Linux. These are not exhaustive gameplay tests.

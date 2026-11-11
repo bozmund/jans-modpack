@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 8,
-  "version": "2026.11.09-1",
+  "build": 9,
+  "version": "2026.11.11-1",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -17,8 +17,8 @@
     },
     {
       "path": "config/DistantHorizons.toml",
-      "sha512": "cf75263e0d9d156e31112f016b1dd0c7add4c8e1acedf44bbea60d024dde8781dcf5b57270b7884a54f19ef08b252923d58b56f0cd2cce33979d5d0768c37298",
-      "size": 37013,
+      "sha512": "74b95583d2da575239c793f024181a3ed2382d3807ea93d27cdd56533c93fac22effdcf2189dd05a772580d36b211e445111d1a5ab81087fa76884b9d904a22e",
+      "size": 37012,
       "url": "overrides/config/DistantHorizons.toml",
       "policy": "once",
       "source": "repo"
@@ -2032,6 +2032,14 @@
       "source": "repo"
     },
     {
+      "path": "config/atum-common.toml",
+      "sha512": "31fe92842fcd127ac9637313b4e1190a2010f03159f0bdd74544350ed529c1324644f4e6fd947c8ae1e77c7da2e9886c31180a0db991f5d405314ed7c5582911",
+      "size": 1960,
+      "url": "overrides/config/atum-common.toml",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/autofish-client.toml",
       "sha512": "8689fc454405286eba1b1e6c6dc6fd4b1bc3a761b87452b6be617fbe738a14da5f46c376bd03cf793edfaad3557e8c74d50aecd23d7aec041ba8347f2a9e20e9",
       "size": 1462,
@@ -2393,7 +2401,7 @@
     },
     {
       "path": "config/druidcraftrg-common.properties",
-      "sha512": "04ae0dfc054522c8078fcd0ed7497381a9bc8838067195064ec8e217ac22d67afe7e1001e915a21157e1924891686491a520648c492f4119a870bea036c0441f",
+      "sha512": "7af67531b15b22e80bf3fc05e0018778b47e05d9d556959d6473bfa4672e4ba40a8bfc9dfa7ee1cbdb9a31b0b4ec869edd0fa0ac4ffbf7280e384e62404b68d3",
       "size": 258,
       "url": "overrides/config/druidcraftrg-common.properties",
       "policy": "once",
@@ -2793,8 +2801,8 @@
     },
     {
       "path": "config/invmove/unrecognized.json",
-      "sha512": "663c7a8593bc93887b4d520bb828fccfd3ff6444ddd92eba68a4aa8f044d39eee58c971c399ae4b07a9a7a9373ba3b25a852f0c7595723734acaa0ae13613510",
-      "size": 2391,
+      "sha512": "99ebdb7d3358a40f30526bf1d5050c87dac9f50525bbb9411cb035ddb0c26d9ee54527d7a12ab89613d8265508317d6d441df3a4f86eabb42e0da1089ffac785",
+      "size": 2750,
       "url": "overrides/config/invmove/unrecognized.json",
       "policy": "once",
       "source": "repo"
@@ -2817,7 +2825,7 @@
     },
     {
       "path": "config/iris.properties",
-      "sha512": "522c15dbd7c98525efbccb28ec4115cd38768db6fa3ed8b65d6484f1716fd4c3876d19682c4aa331bd5ffd107890eec7e73de7d0e9ad6d9b092a51654c586984",
+      "sha512": "02ba6c5635081c5196044b9704a02de40cf58f6e5078e58194768b0b1d9943cc699d6a5c89bc4b4f5c2ef3676381dcbd7c4247c89b6e3a5d5e50d4ecd1a3f01d",
       "size": 306,
       "url": "overrides/config/iris.properties",
       "policy": "once",
@@ -3048,6 +3056,22 @@
       "source": "repo"
     },
     {
+      "path": "config/lambdynlights.toml",
+      "sha512": "815472cd8f9ae88fac01efaf3c5ce416ebc47a49af50414e3128183170fea9f61dd41a49eead0374091f7f89673e5ef10dc5997e0cb11b3f86ae0cab6b6095f9",
+      "size": 1448,
+      "url": "overrides/config/lambdynlights.toml",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
+      "path": "config/legendary_monsters-common.toml",
+      "sha512": "43a010cb19b7ef71a809a78a01aaefc51261ba56e868826a7fe46a23fc4226972b4f1f0ffdd67db7ea9d1a88ea2d9abf2280c6474ace99b23d87df55872026e8",
+      "size": 23254,
+      "url": "overrides/config/legendary_monsters-common.toml",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/letmedespawn.json",
       "sha512": "357d014588e14ec4c4dcb356972a3f3b2d0e8b81660d9356c43f513f25038f792f18454e02fbddcf6b9d6a4ff88bf583cdd21e4b04240c8495c706e06f273472",
       "size": 149,
@@ -3160,6 +3184,22 @@
       "source": "repo"
     },
     {
+      "path": "config/moonlight-client.json",
+      "sha512": "adfc4eaeecc3c4131dd1cf07a35fe99fc3c56da11d25d763646c8d66c20201e72ea48b9ddfb478bcb9bf86ff9669db0cad4bfa5d6f82a23ea737b73a7016e6f9",
+      "size": 453,
+      "url": "overrides/config/moonlight-client.json",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
+      "path": "config/moonlight-common.json",
+      "sha512": "0109580d1214931aa82471a45c04343af3f3fd420949c08764461ae351e1247c9089f010a31b88b2ea0c6da119a36fc0b03e2ba796f7f34b5bed230bdd0dfffa",
+      "size": 278,
+      "url": "overrides/config/moonlight-common.json",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/moreculling.toml",
       "sha512": "7aac3d82a993324ba5b4ebc0999bc4f37170db8e6dc0f7da60d350389b6b0adba7b1edf845912b0cecdc95c1d53f9a0623ab81474d8f7ebcd72de09c5d2c8c87",
       "size": 495,
@@ -3217,7 +3257,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "sha512": "50603b1cd2689553c59a35fa241d25f7ebdace06dd73d27f6a7b4bd686e9c39f1aa59f1ae9f9d2a481131885f3f1c6d3e0f6adc7acdce5d6ea7959ade2a84ba8",
+      "sha512": "a4e18806e3e87a726ae1cba41850569dfc5ae16b6557915c83c59fcf8f8f26406dd33d2427c19749d8420f4c59d33dad0f344cfd6e50cfdb61fc9506f618e5da",
       "size": 535,
       "url": "overrides/config/packetfixer.properties",
       "policy": "once",
@@ -3496,6 +3536,14 @@
       "source": "repo"
     },
     {
+      "path": "config/roguelike-dungeons.json",
+      "sha512": "b9a511e91a32585c42dcba0af2f4003a496326b5663d6bedd475122eaa7441a95f21fe75853d84ec4d1fae05fc5e2eaa35b50b007eb4f32708283b0008354b04",
+      "size": 192,
+      "url": "overrides/config/roguelike-dungeons.json",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/rpg_series/loot_equipment_v2.json",
       "sha512": "53a71f9508b06253c45b26b8861163888061186a1ba1267125f3a107f42c1270706d4088cefa6a0346a19eb30407d0f6ca4f2048ff0b710c5d52ea81c6fb1695",
       "size": 166304,
@@ -3561,8 +3609,8 @@
     },
     {
       "path": "config/serilum/collective.json",
-      "sha512": "dda670e7e07d5fb57f823b529761f6a2ad0d6ef3cf5aa56b47de7de5b72e874deca8ca476ad84aaa880a5283f8bded4f7fc162423ea59370d57af6cc26e65117",
-      "size": 2975,
+      "sha512": "e9bea157f203a072c7b93aaf357a083cea6d6f3eb6eef6b556f59fa83deeb91eca66ec6b872e5c07254930fc66865d5af6faf97d6a28fa3b41cbe162b97cd6e4",
+      "size": 3147,
       "url": "overrides/config/serilum/collective.json",
       "policy": "once",
       "source": "repo"
@@ -3665,7 +3713,7 @@
     },
     {
       "path": "config/sizeable_foliage.properties",
-      "sha512": "f49d87a46751181f2433a2a93cd535799d05efb38a582540416e10f318067088c419d7d61cb8f6cdc35794178736ebc371daa2b1d3b48ac4d1edc46ea0d544b2",
+      "sha512": "b81ffccb5b52a8c2d7863ee76e1f50f5020c71513d52b9374c5caa67d291c2d31bd53a215ea3b285afbdcf4f237c00df7f23c5a022bcb9fc03438006da9ea936",
       "size": 83,
       "url": "overrides/config/sizeable_foliage.properties",
       "policy": "once",
@@ -3761,8 +3809,8 @@
     },
     {
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "sha512": "4266a9b09f3632ac309409c589180cd84bc5fdcbe9c528f80c87677fb0a5c6338b69418b44b7ad7b5f45bfaa75425e5a6b14def793acd08baffc9774b77bc1d1",
-      "size": 166336,
+      "sha512": "969528664d28795ec3c04ca5085b66e65a536a64619ee42578f84aacba381f606d66bc1c490b28eabc11e79fc297efa13ed5ad87fddb7417fb678f4907df4139",
+      "size": 177993,
       "url": "overrides/config/sound_physics_remastered/sound_rates.properties",
       "policy": "once",
       "source": "repo"
@@ -4104,6 +4152,22 @@
       "source": "repo"
     },
     {
+      "path": "config/supplementaries-client.json",
+      "sha512": "d2b300e3feed4684084537e51af4b3e9ffc6e962e70baaccbef2da361a6fd9ae746a37c037b490677909c39e71003bd490615c8f070995a434085bfbd55728dc",
+      "size": 3349,
+      "url": "overrides/config/supplementaries-client.json",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
+      "path": "config/supplementaries-common.json",
+      "sha512": "788e145820d1af3c51b4de00c315399355b01a083c967f5bd2dfc8388dc6658806186807e9a27686fdde270ed2598ddc9ebf63b880c509c273d050a565413908",
+      "size": 11427,
+      "url": "overrides/config/supplementaries-common.json",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/taxfreelevels.json",
       "sha512": "6f7c6fe2fa8c9b231e5e71fe81e91ee3ce3e29b10c128a0dfecebb48ec704e057712ce6776d96e2034594366d6fc0c32cd7e44a86cf3f60538533f517fc9a00f",
       "size": 48,
@@ -4385,7 +4449,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "sha512": "21af8478b73320844497d55d0079e3d2f8fec7cc54b0c7eaa022a6c34fbb5799212220bc80ad42f7135af90229e9a4870292971ecb4d57ed2644bbae87b3eace",
+      "sha512": "feb6847c8e71be57c5dc61daef7e57d1b100a7a413e845ced57c9d5780f186c49351c74b03e4508b472464f1dde26daa6e3e1a6b94f44b741a975f6b2e0bc552",
       "size": 390,
       "url": "overrides/config/vmp.properties",
       "policy": "once",
@@ -4456,10 +4520,26 @@
       "source": "repo"
     },
     {
+      "path": "config/weatherglass.properties",
+      "sha512": "ebed1fcb8e6e6c677a7181eba60b9594b6080541ba113f32206853b59fae1e37bdd237beefe67a576edc7072e746ae7c89a15918dff03fe264bb03c8626f47d2",
+      "size": 648,
+      "url": "overrides/config/weatherglass.properties",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
       "path": "config/whitenoise-client.toml",
       "sha512": "0177d6bfde7e95276462ab5998832c3dce6eeb9c552300b52f5e90fd50a4fe49a21bb41b7aebc5d1f967e5e348a8621e291516fd47c985cc00ae3c90cd4b6c28",
       "size": 339,
       "url": "overrides/config/whitenoise-client.toml",
+      "policy": "once",
+      "source": "repo"
+    },
+    {
+      "path": "config/windy-config.json",
+      "sha512": "1a1eb2953f90f762a5594a749757da4d3f0eebd12b0011fab91ab4bab1d00926cd6897c9983081c5569754bb06c19cefa229371077bafd264eaa62cf1e634b79",
+      "size": 96,
+      "url": "overrides/config/windy-config.json",
       "policy": "once",
       "source": "repo"
     },
@@ -5387,11 +5467,11 @@
       "path": "mods/BetterGrassify-1.8.8+fabric.26.3.jar",
       "sha512": "950a4742996eefb087dd91eab9dcabd0e39945a1ce7bcd180c93886bd96cf81793d75148538552c6ce5951db3673ac4a0f8469eca1f1e78f30ae1aea3f9a3c55",
       "size": 87900,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/950a4742996eefb0-BetterGrassify-1.8.8%2Bfabric.26.3.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/950a4742996eefb0-BetterGrassify-1.8.8+fabric.26.3.jar",
       "policy": "managed",
       "name": "BetterGrassify",
       "version": "1.8.8+fabric.26.3",
-      "project": "m5T5xmUy",
+      "project": "bettergrass",
       "mod_id": "bettergrass",
       "source": "github"
     },
@@ -5435,7 +5515,7 @@
       "path": "mods/Cobblemon-fabric-1.8.3+26.3-port.jar",
       "sha512": "75897cdc419e403df4580994ac45f98a41467fc98128db9302a4862ff6bcfc98f05a4cba07ae799eb125e3b197fbfb3ce1d2da94b850d2b9747ed972854d4db8",
       "size": 147061492,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/75897cdc419e403d-Cobblemon-fabric-1.8.3%2B26.3-port.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/75897cdc419e403d-Cobblemon-fabric-1.8.3+26.3-port.jar",
       "policy": "managed",
       "name": "Cobblemon",
       "version": "1.8.3+26.3-fabric-26.3-bf0373c",
@@ -5504,16 +5584,16 @@
       "source": "github"
     },
     {
-      "name": "EnchantmentDescriptions",
-      "version": "26.3.0.2",
-      "mod_id": "enchdesc",
-      "project": "enchdesc",
       "path": "mods/EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar",
       "sha512": "143438ec287a5b591c64d527714d499086d20b3c8d87df35728249ab35cebaa2eba885e458bd3a9ca8b349be2ffb497308507c8bbce0e251437f43ab02d376e7",
       "size": 81219,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/143438ec287a5b59-EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar",
+      "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/uZf2qbql/EnchantmentDescriptions-fabric-MC26.3-26.3.0.2.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Enchantment Descriptions",
+      "version": "26.3.0.2",
+      "project": "UVtY3ZAC",
+      "mod_id": "enchdesc",
+      "source": "modrinth"
     },
     {
       "path": "mods/ExtremeSoundMuffler-4.05_Fabric-26.3.jar",
@@ -5636,13 +5716,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/MendableAnvils-fabric-26.1-1.2.4.jar",
-      "sha512": "34dce3a8f9b63a689dde6f19adb333d79522067ad99057772c8f08897395050c93a9cf289169604a8552d4c142e53c616fe5ba5c10c54db647aa301dcc919287",
-      "size": 144768,
-      "url": "https://cdn.modrinth.com/data/9p1fvkRO/versions/CQFLLGM4/MendableAnvils-fabric-26.1-1.2.4.jar",
+      "path": "mods/MendableAnvils-fabric-26.1-1.2.5.jar",
+      "sha512": "d8abc6c4877c1663ee9a850887ead89f163ba29ee893e86c5359f7fb7790311adfccdf819bd1a663f7554bb816f14a8b455bae968818ff43ccc76d25c3663688",
+      "size": 144769,
+      "url": "https://cdn.modrinth.com/data/9p1fvkRO/versions/uvqHEKeu/MendableAnvils-fabric-26.1-1.2.5.jar",
       "policy": "managed",
       "name": "Mendable Anvils",
-      "version": "1.2.4",
+      "version": "1.2.5",
       "project": "9p1fvkRO",
       "mod_id": "mendable_anvils",
       "source": "modrinth"
@@ -5696,28 +5776,28 @@
       "source": "modrinth"
     },
     {
-      "name": "Panda's Falling Trees — Grounded",
-      "version": "1.0.0+26.3-grounded.1",
-      "mod_id": "fallingtrees",
-      "project": "fallingtrees",
       "path": "mods/PandasFallingTrees-1.0.0+26.3-grounded.4.jar",
       "sha512": "d74ea8b189b8343c2c797f4c1ffcf6fc46656c06c860b82367be963d4364a1f7723c83494acef59e1fa8dde14fb5f785261e839045eef3f580257657763b8331",
       "size": 2078795,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/d74ea8b189b8343c-PandasFallingTrees-1.0.0%2B26.3-grounded.4.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/d74ea8b189b8343c-PandasFallingTrees-1.0.0+26.3-grounded.4.jar",
       "policy": "managed",
+      "name": "Panda's Falling Trees — Grounded",
+      "version": "1.0.0+26.3-grounded.1",
+      "project": "fallingtrees",
+      "mod_id": "fallingtrees",
       "source": "github"
     },
     {
-      "name": "Player Animation Library",
-      "version": "1.2.9+mc.26.3",
-      "mod_id": "player_animation_library",
-      "project": "player_animation_library",
       "path": "mods/PlayerAnimationLibMerged-1.2.9+mc.26.3.jar",
       "sha512": "8b2644fb5e593cd85d4859c2e78aefa494a818f6a8b62ae85d92de98c73bc80cd2a61d2d9e90b2e094b49e8ec715b5dc8cc23442e38b6cbb3ba797eb34bdd979",
       "size": 411384,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8b2644fb5e593cd8-PlayerAnimationLibMerged-1.2.9%2Bmc.26.3.jar",
+      "url": "https://cdn.modrinth.com/data/ha1mEyJS/versions/lQIjpkZc/PlayerAnimationLibMerged-1.2.9%2Bmc.26.3.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Player Animation Library",
+      "version": "1.2.9",
+      "project": "ha1mEyJS",
+      "mod_id": "player_animation_library",
+      "source": "modrinth"
     },
     {
       "path": "mods/PrickleMC-fabric-MC26.3-26.3.0.2.jar",
@@ -5804,16 +5884,16 @@
       "source": "github"
     },
     {
-      "name": "Structory",
-      "version": "1.3.18+26.3",
-      "mod_id": "structory",
-      "project": "structory",
       "path": "mods/Structory_26.3_v1.3.18+26.3.jar",
       "sha512": "a9b7c7ce45a38c4be68563337e413adbf486a8e47fecc450d3ee59dadf807faee39d49a098c2dbfc2a466f0d36c71ca8e051f161efdbfc19b069f0c70e6b4223",
       "size": 1261901,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/a9b7c7ce45a38c4b-Structory_26.3_v1.3.18%2B26.3.jar",
+      "url": "https://cdn.modrinth.com/data/aKCwCJlY/versions/GjOkOVW4/Structory_26.3_v1.3.18%2B26.3.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Structory",
+      "version": "1.3.18+26.3",
+      "project": "aKCwCJlY",
+      "mod_id": "structory",
+      "source": "modrinth"
     },
     {
       "path": "mods/TaxFreeLevels-1.5.4-fabric-26.1.jar",
@@ -5864,16 +5944,16 @@
       "source": "modrinth"
     },
     {
-      "name": "Windy",
-      "version": "1.1.1+26.1",
-      "mod_id": "windy",
-      "project": "windy",
       "path": "mods/Windy-1.1.1+26.1.jar",
       "sha512": "953d568f15c5d82dbb12d6dee12dd4947fa977f560dab155b1fd2201ad559c259ce4d93ca589fc30f80aa9332231483d2116742639eab9a9df01c962938fbcf6",
       "size": 38879,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/953d568f15c5d82d-Windy-1.1.1%2B26.1.jar",
+      "url": "https://cdn.modrinth.com/data/EwYg6C78/versions/qKwLQacO/Windy-1.1.1%2B26.1.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Windy",
+      "version": "1.1.1+26.1",
+      "project": "EwYg6C78",
+      "mod_id": "windy",
+      "source": "modrinth"
     },
     {
       "path": "mods/aaa_particles-fabric-26.3-2.3.2.jar",
@@ -5903,7 +5983,7 @@
       "path": "mods/alexscaves-1.1.3-fabric+26.3-jan.jar",
       "sha512": "02db9a22fc8458a5550aaead9d8e3e6c3323c686cdb890dc286a7f5f667ac524a72196b288a1b318f471fdb9330511de9be0d8d132429df5bc50bd4e6ce4d675",
       "size": 75726194,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/02db9a22fc8458a5-alexscaves-1.1.3-fabric%2B26.3-jan.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/02db9a22fc8458a5-alexscaves-1.1.3-fabric+26.3-jan.jar",
       "policy": "managed",
       "name": "Alex's Caves Continued",
       "version": "1.1.3",
@@ -5948,15 +6028,15 @@
       "source": "github"
     },
     {
-      "name": "Anthology",
-      "version": "1.0.5+26.3-fabric",
-      "mod_id": "anthology",
-      "project": "anthology",
       "path": "mods/anthology-1.0.5+26.3-fabric.jar",
       "sha512": "9067e0a6d8a58034bb97057db60c18c36c2bf313f9145ef05c09984ace550f0e896761797acc9752370d2fa0e68cc4d8f6a254ea732e802ffa716ece69bf1e5a",
       "size": 536598,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9067e0a6d8a58034-anthology-1.0.5%2B26.3-fabric.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9067e0a6d8a58034-anthology-1.0.5+26.3-fabric.jar",
       "policy": "managed",
+      "name": "Anthology",
+      "version": "1.0.5+26.3-fabric",
+      "project": "anthology",
+      "mod_id": "anthology",
       "source": "github"
     },
     {
@@ -6071,7 +6151,7 @@
       "path": "mods/atum-2.3.0+26.3-fabric.jar",
       "sha512": "8940522b34d253114fe583e46399ea018a279731ef2169eee818321fef90a6acca133c0dc687aac9a50d102b288540ca09b1d5109f50097ce7cfc7d5d2cb13df",
       "size": 5006682,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8940522b34d25311-atum-2.3.0%2B26.3-fabric.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8940522b34d25311-atum-2.3.0+26.3-fabric.jar",
       "policy": "managed",
       "name": "Atum 2: Return to the Sands",
       "version": "2.3.0+26.3-fabric",
@@ -6164,25 +6244,25 @@
       "source": "modrinth"
     },
     {
-      "name": "Concurrent Chunk Management Engine",
-      "version": "0.4.2-alpha.0.116+26.3",
-      "mod_id": "c2me",
-      "project": "c2me",
       "path": "mods/c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
       "sha512": "5db513d05f909d7b09d035b40f0d31945ec8911f4d7b75fa258bb6e6338761b8847c9d1804d40b647e1781cfc143ff7dd0e0a4389f19ec46e031be7bbb7b5052",
       "size": 4219731,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5db513d05f909d7b-c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/aOP6eqZA/c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Concurrent Chunk Management Engine (Fabric)",
+      "version": "0.4.2-alpha.0.116+26.3",
+      "project": "VSNURh3q",
+      "mod_id": "c2me",
+      "source": "modrinth"
     },
     {
-      "path": "mods/carryon-fabric-26.3-2.12.1.jar",
-      "sha512": "799e6a0882eb4cab62fcb43855a893b1bd8c139bbedb1738e48935dbddce647d4f7a7faa361d5eb1e78a2f0e8087e1bf629b6ce79f0cafad0ac250dc41c0010b",
+      "path": "mods/carryon-fabric-26.3-2.12.2.jar",
+      "sha512": "36e7c693e3788b4395a5100cf4460b8d1ef16e8783af4f7c78dd83bb1f33b66e08659fa4a33f81a6023bedae1e9741a59b3c3263e17d97ad8a36695486ef1ae2",
       "size": 380139,
-      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/d0jTyKNs/carryon-fabric-26.3-2.12.1.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/9UKSKr1K/carryon-fabric-26.3-2.12.2.jar",
       "policy": "managed",
       "name": "Carry On",
-      "version": "2.12.1",
+      "version": "2.12.2",
       "project": "joEfVgkn",
       "mod_id": "carryon",
       "source": "modrinth"
@@ -6236,15 +6316,15 @@
       "source": "modrinth"
     },
     {
-      "name": "CodecUI",
-      "version": "1.4.7+26.3-fabric",
-      "mod_id": "codecui",
-      "project": "codecui",
       "path": "mods/codecui-1.4.7+26.3-fabric.jar",
       "sha512": "6b30ebfb547f089463f070a0e06f58cbcbeb826e2ac8d6d5e5353d539a42b44324be496aeba870ea8c98e52d1758b537ef800071ddfdd73d0aa139569894059b",
       "size": 268501,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/6b30ebfb547f0894-codecui-1.4.7%2B26.3-fabric.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/6b30ebfb547f0894-codecui-1.4.7+26.3-fabric.jar",
       "policy": "managed",
+      "name": "CodecUI",
+      "version": "1.4.7+26.3-fabric",
+      "project": "codecui",
+      "mod_id": "codecui",
       "source": "github"
     },
     {
@@ -6260,16 +6340,16 @@
       "source": "modrinth"
     },
     {
-      "name": "Collective",
-      "version": "8.83",
-      "mod_id": "collective",
-      "project": "collective",
-      "path": "mods/collective-26.3.0-8.83.jar",
-      "sha512": "77e531b5f637f590a8c4bc4002621820c0b7b0fd9ba2b781082a8de5c5ee9124bf31746c95edfb8353a269fe9475ef8912182b18c65c3c70f8d5086bad23543c",
-      "size": 1540016,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/77e531b5f637f590-collective-26.3.0-8.83.jar",
+      "path": "mods/collective-26.3.0-8.86.jar",
+      "sha512": "08d82111c0c4d4d53e4a686df23f7f579a8988caa0048c512d4fbea2f84c9556072e5b888d4bc785d323cafdeebdd3f3837b07109ed386be3b808a09a694b83a",
+      "size": 1665489,
+      "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/jfxbozAD/collective-26.3.0-8.86.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Collective",
+      "version": "26.3.0-8.86-fabric+forge+neo",
+      "project": "e0M1UDsY",
+      "mod_id": "collective",
+      "source": "modrinth"
     },
     {
       "path": "mods/combustible_depths-v1d.jar",
@@ -6335,12 +6415,12 @@
       "path": "mods/create-fly-26.3-6.0.9-2-jan1.jar",
       "sha512": "f5fd8aad6a1cae3968321fdd9d32fa3f401235a549b679c3515a3f93db037dfc28e15b2c57ffe44b514960e1babeb1d043427db4ae12f05ecaafc723d284338f",
       "size": 21508878,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f5fd8aad6a1cae39-create-fly-26.3-6.0.9-2-jan1.jar",
       "policy": "managed",
       "name": "Create Fly",
       "version": "6.0.9-2-jan1",
       "project": "create",
       "mod_id": "create",
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f5fd8aad6a1cae39-create-fly-26.3-6.0.9-2-jan1.jar",
       "source": "github"
     },
     {
@@ -6359,7 +6439,7 @@
       "path": "mods/critters-and-companions-2.7.0+26.3.jar",
       "sha512": "e1e0b02f5e27c9f91bceb01f890150b76f4ea1ec4d0e30f0973edae2add013918c5b8f98228a930bba00b41fe678486b522b568b81d2a311a5722ff0d82418e0",
       "size": 2125246,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e1e0b02f5e27c9f9-critters-and-companions-2.7.0%2B26.3.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e1e0b02f5e27c9f9-critters-and-companions-2.7.0+26.3.jar",
       "policy": "managed",
       "name": "Critters and Companions",
       "version": "2.7.0+26.3",
@@ -6443,7 +6523,7 @@
       "path": "mods/dungeons_plus-1.7.0+26.3-fabric-jan.jar",
       "sha512": "703f1e2c41d6f662c4d63debaeaff5afc0f335d95f89bf252537f48ea4f6bc9565fee1f664f8688547889a3e9b20c17501fe01fb2a345732f4d5984823764978",
       "size": 5190629,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/703f1e2c41d6f662-dungeons_plus-1.7.0%2B26.3-fabric-jan.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/703f1e2c41d6f662-dungeons_plus-1.7.0+26.3-fabric-jan.jar",
       "policy": "managed",
       "name": "Dungeons Plus",
       "version": "1.7.0+26.3-fabric",
@@ -6560,13 +6640,13 @@
       "source": "github"
     },
     {
-      "path": "mods/fabric-api-0.165.2+26.3.jar",
-      "sha512": "21ce87863ed73c4c871e072f13c5a7b00bd148a098c5064a5f381479d1ddd7c54b0f40ef7d17ce2ae5712deb647c5fcaf12cb72fb663fe8d958188e870b33de0",
-      "size": 1779306,
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/nJlcvFfj/fabric-api-0.165.2%2B26.3.jar",
+      "path": "mods/fabric-api-0.166.2+26.3.jar",
+      "sha512": "fb686a9fa923248328107a12498229d6951e316257f18b7d0e4cbd6885ba447ed50a44076a8a5ba47cfe2043b329db3587ab000aeab1face26b2587a5d4ba6b5",
+      "size": 1797523,
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Zns5SSRA/fabric-api-0.166.2%2B26.3.jar",
       "policy": "managed",
       "name": "Fabric API",
-      "version": "0.165.2+26.3",
+      "version": "0.166.2+26.3",
       "project": "P7dR8mSH",
       "mod_id": "fabric-api",
       "source": "modrinth"
@@ -6731,12 +6811,12 @@
       "path": "mods/jans-weather-glass-compat-0.1.0+26.3.jar",
       "sha512": "9aaba0d4c01e4c55656c6b9d7670a1e50a16e5a7689c832208c8bced0abf9d5e337c39f7c301db264e0e5e1d247c71fe2e978cb40207d3549b4c8182c567c99b",
       "size": 5280,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9aaba0d4c01e4c55-jans-weather-glass-compat-0.1.0+26.3.jar",
       "policy": "managed",
-      "name": "Weather Glass - Simple Clouds compatibility",
+      "name": "Jan's Weather Glass Compatibility",
       "version": "0.1.0+26.3",
       "project": "jans_weather_glass_compat",
       "mod_id": "jans_weather_glass_compat",
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9aaba0d4c01e4c55-jans-weather-glass-compat-0.1.0+26.3.jar",
       "source": "github"
     },
     {
@@ -6752,13 +6832,13 @@
       "source": "github"
     },
     {
-      "path": "mods/jansfixes-1.0.0+26.3.jar",
-      "sha512": "e454bdd8ea952c52e3f3bc5c59b0f3fad4467e39167c248d9681435b6876baa37c23bcc2dc240e2704fedd05fece55eb60433d65c707f8ba36175628383ed530",
-      "size": 31125,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/e454bdd8ea952c52-jansfixes-1.0.0%2B26.3.jar",
+      "path": "mods/jansfixes-1.1.0+26.3.jar",
+      "sha512": "0b42338ef3e89ab307e2e6b7f4c2f6abd9ae32f6dcf89fd1aa98662012605cff2ba3f75f00378bd2c146ed6f54ed850de8b56b2665c46182fa5d47082f86e2ff",
+      "size": 27871,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/0b42338ef3e89ab3-jansfixes-1.1.0+26.3.jar",
       "policy": "managed",
       "name": "Jans Fixes",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "project": "jansfixes",
       "mod_id": "jansfixes",
       "source": "github"
@@ -6812,27 +6892,39 @@
       "source": "modrinth"
     },
     {
-      "name": "Krypton",
-      "version": "0.3.2+jan.e4mc.1",
-      "mod_id": "krypton",
-      "project": "krypton",
       "path": "mods/krypton-0.3.2-jan-e4mc-compat.1.jar",
       "sha512": "6f6b4cbf11ab8c5187fca268717462ed0e67b8c98ef9cf5e6b9167ea67bd19c6e09fab67c8744806cc86321d2160bff83a9f0bd90e99184bec5f0436e56a36c7",
       "size": 269020,
       "url": "https://github.com/bozmund/jans-modpack/releases/download/files/6f6b4cbf11ab8c51-krypton-0.3.2-jan-e4mc-compat.1.jar",
       "policy": "managed",
+      "name": "Krypton",
+      "version": "0.3.2+jan.e4mc.1",
+      "project": "krypton",
+      "mod_id": "krypton",
       "source": "github"
     },
     {
       "path": "mods/lambdynamiclights-4.13.0+26.3.jar",
-      "policy": "managed",
-      "name": "LambDynamicLights",
-      "version": "4.13.0+26.3",
-      "project": "lambdynamiclights",
-      "mod_id": "lambdynlights",
       "sha512": "67c37ca7d619bd7f2b0dc02217070c20e34fb3bb3363d4e23f5ef9ca90b1b58adb223fab73639a3499d366497316f1eb297d2759f3ffb976467b4759f784619d",
       "size": 1345715,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/67c37ca7d619bd7f-lambdynamiclights-4.13.0+26.3.jar",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/rylKnJ4M/lambdynamiclights-4.13.0%2B26.3.jar",
+      "policy": "managed",
+      "name": "LambDynamicLights - Dynamic Lights",
+      "version": "4.13.0+26.3",
+      "project": "yBW8D80W",
+      "mod_id": "lambdynlights",
+      "source": "modrinth"
+    },
+    {
+      "path": "mods/legendary-monsters-2.2.4+26.3-jan1.jar",
+      "sha512": "2b1caad170ae749de933f75bd7c3405e4db08b21dc791cae80d24e9d681c24b6b354a1cd0e2a52565d75ba32fd1c979645b53f64c79655f1a41ab1e7ad7c4edf",
+      "size": 45003565,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2b1caad170ae749d-legendary-monsters-2.2.4+26.3-jan1.jar",
+      "policy": "managed",
+      "name": "Legendary Monsters",
+      "version": "2.2.4+26.3-port.1",
+      "project": "legendary_monsters",
+      "mod_id": "legendary_monsters",
       "source": "github"
     },
     {
@@ -6896,28 +6988,28 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/metalbundles-v26.3.3-mc26.3.x+fabric.jar",
-      "sha512": "e62cca6b29cf6b1fa48e31c72e90109d798f409a3aec02e9b4050b262d09541845c655aaa59400af80ef4120eb9796ce523321ec62a9591b97114f63ad8ae48e",
-      "size": 531726,
-      "url": "https://cdn.modrinth.com/data/6pY6oEMg/versions/TQYgbkWW/metalbundles-v26.3.3-mc26.3.x%2Bfabric.jar",
+      "path": "mods/metalbundles-v26.3.4-mc26.3.x+fabric.jar",
+      "sha512": "8c70d4853872e754ccebc4b03daad86e8e7c34399d52b4abf79d4bdfc73a24487c0fa29bf3f6a850a7f972e7cf8176f8ff59fc0b7c45b4344c8b186235d37814",
+      "size": 534023,
+      "url": "https://cdn.modrinth.com/data/6pY6oEMg/versions/hQjf52hj/metalbundles-v26.3.4-mc26.3.x%2Bfabric.jar",
       "policy": "managed",
       "name": "Metal Bundles",
-      "version": "26.3.3",
+      "version": "26.3.4",
       "project": "6pY6oEMg",
       "mod_id": "metalbundles",
       "source": "modrinth"
     },
     {
-      "name": "MezzConfig",
-      "version": "0.6.11",
-      "mod_id": "mezz_config",
-      "project": "mezz_config",
-      "path": "mods/mezz_config-26.3-fabric-0.6.11.jar",
-      "sha512": "c8084e5f77c396fed196565f9fae88cde356a8fd10d5a94677515ef3b761e2c74d8d205fddfddc21700105e7dfc8729b3d93ee6a8d0c041c6f2e18f6aca8928a",
-      "size": 390121,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/c8084e5f77c396fe-mezz_config-26.3-fabric-0.6.11.jar",
+      "path": "mods/mezz_config-26.3-fabric-0.7.1.jar",
+      "sha512": "3edb3239ece519c6de657d14faa17838afbe37f85cfe1d9b505f5519257794d929d18e54071e993efff26ac68ed98a6b05037db73f2c0d3da8f018733c3ebb6d",
+      "size": 390537,
+      "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/26GXFp06/mezz_config-26.3-fabric-0.7.1.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "MezzConfig",
+      "version": "0.7.1",
+      "project": "7tEfOcA7",
+      "mod_id": "mezz_config",
+      "source": "modrinth"
     },
     {
       "path": "mods/midnightlib-fabric-1.10.0+26.3.jar",
@@ -6932,16 +7024,16 @@
       "source": "modrinth"
     },
     {
-      "name": "Mielon's The Sift",
-      "version": "2.0.1",
-      "mod_id": "the_sift",
-      "project": "the_sift",
-      "path": "mods/mielon's-the-sift-2.0.1-mc26.3-fabric.jar",
-      "sha512": "f86a93dc8dc31158eb85ea487cfeef8a6cfc26e61896f81f3791a3e3189f01095851e711cfd85583e32f0319e967ded6d20b562900ffd92807946ec549bf80a9",
-      "size": 80586305,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f86a93dc8dc31158-mielon_s-the-sift-2.0.1-mc26.3-fabric.jar",
+      "path": "mods/mielon's-the-sift-2.0.3-mc26.3-fabric.jar",
+      "sha512": "e9f0cd712e1ecf1f56e04196122729530947516d2a060e0a6c99ea72475ddaec17b66078bd0bc2ecb75e0e8e73c2805e13dfa532c8027f41ede435e1171ea0d9",
+      "size": 81270239,
+      "url": "https://cdn.modrinth.com/data/j0IfTxBq/versions/kLnqsIbi/mielon%27s-the-sift-2.0.3-mc26.3-fabric.jar",
       "policy": "managed",
-      "source": "github"
+      "name": "Mielon's The Sift 2.0",
+      "version": "2.0.3",
+      "project": "j0IfTxBq",
+      "mod_id": "the_sift",
+      "source": "modrinth"
     },
     {
       "path": "mods/modernfix-5.27.20-build.2.jar",
@@ -6968,15 +7060,15 @@
       "source": "modrinth"
     },
     {
-      "name": "Moonlight Lib",
-      "version": "4.2.0+26.3-fabric",
-      "mod_id": "moonlight",
-      "project": "moonlight",
       "path": "mods/moonlight-4.2.0+26.3-fabric.jar",
       "sha512": "c48881898dc43a9e612c473d6ddad508dec604d4715aaa037402a51dbf6ec4c3ff4a419e573cc9e8298dd7cfba7cef1c5912d70acfece80e25e750d4c2639317",
       "size": 1926871,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/c48881898dc43a9e-moonlight-4.2.0%2B26.3-fabric.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/c48881898dc43a9e-moonlight-4.2.0+26.3-fabric.jar",
       "policy": "managed",
+      "name": "Moonlight Lib",
+      "version": "4.2.0+26.3-fabric",
+      "project": "moonlight",
+      "mod_id": "moonlight",
       "source": "github"
     },
     {
@@ -7043,7 +7135,7 @@
       "path": "mods/nomendubium-1.0.1+26.3.jar",
       "sha512": "f0bea6327fccc07c82dbd395c8a793cd41c057c1355d7de4a69c1bb46d99c2cf7c2cae7cf740d993e06c26e427645a7ce78af3476f5804f8b0ace73560f1b79d",
       "size": 900330,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f0bea6327fccc07c-nomendubium-1.0.1%2B26.3.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f0bea6327fccc07c-nomendubium-1.0.1+26.3.jar",
       "policy": "managed",
       "name": "Nomen Dubium",
       "version": "1.0.1+26.3",
@@ -7052,27 +7144,27 @@
       "source": "github"
     },
     {
-      "name": "Olaf's Relatively Placed Blocks",
-      "version": "2.0.0+jan.recipe-sync.1",
-      "mod_id": "relativeblocks",
-      "project": "relativeblocks",
       "path": "mods/olafsrelativeblocks-2.0.0+mc26.3-jan1.jar",
       "sha512": "f1fb84cd2cf7b3e6e753ce83dcb88905fdee5947c077a768b78d9da567567480f2227d18836bd40703a63f8c1e92c47988cd68f14b0b06df12f69bbef9d956a8",
       "size": 142959,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f1fb84cd2cf7b3e6-olafsrelativeblocks-2.0.0%2Bmc26.3-jan1.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/f1fb84cd2cf7b3e6-olafsrelativeblocks-2.0.0+mc26.3-jan1.jar",
       "policy": "managed",
+      "name": "Olaf's Relatively Placed Blocks",
+      "version": "2.0.0+jan.recipe-sync.1",
+      "project": "relativeblocks",
+      "mod_id": "relativeblocks",
       "source": "github"
     },
     {
       "path": "mods/pet-cemetery-3.0.1+26.3-fabric-dev.jar",
       "sha512": "912ff86771047d1ab9c64b978bcf78957efc98182c5fb31cd4e23cc07403b31721406b114dbe8a7fe14c3e5f07f9b1008c88dd5cf6e0f2f6ad647424af2e33cd",
       "size": 311388,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/912ff86771047d1a-pet-cemetery-3.0.1+26.3-fabric-dev.jar",
       "policy": "managed",
       "name": "Pet Cemetery",
       "version": "3.0.1+26.3-fabric-dev",
       "project": "pet_cemetery",
       "mod_id": "pet_cemetery",
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/912ff86771047d1a-pet-cemetery-3.0.1+26.3-fabric-dev.jar",
       "source": "github"
     },
     {
@@ -7187,7 +7279,7 @@
       "path": "mods/reterraforged-0.0.8+26.3.jar",
       "sha512": "2e14f38bcd2fc7740078d0f44d7a8fdd1e4f244dcb2565bb3696bb75bb5d7db72c0c7f323b452dac68794cc614eb86bee378e679e1a750bc14c26bea94876194",
       "size": 1661707,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2e14f38bcd2fc774-reterraforged-0.0.8%2B26.3.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2e14f38bcd2fc774-reterraforged-0.0.8+26.3.jar",
       "policy": "managed",
       "name": "ReTerraForged",
       "version": "0.0.8+26.3",
@@ -7208,6 +7300,18 @@
       "source": "modrinth"
     },
     {
+      "path": "mods/roguelike-dungeons-fabric-2.1.2+mc26.3.jar",
+      "sha512": "b4da4ce47fd9e9ccbe335b46836d8f5d2c35c49870c7d3d323ea98fb2194ce2a7029ae87bdcddb05fab9caa3bef1884bbf4db176433dbd59cbaa7baacddd2c97",
+      "size": 712647,
+      "url": "https://cdn.modrinth.com/data/MFpvbNGE/versions/kcbfVSMp/roguelike-dungeons-fabric-2.1.2%2Bmc26.3.jar",
+      "policy": "managed",
+      "name": "Roguelike Dungeons",
+      "version": "fabric-2.1.2+mc26.3",
+      "project": "MFpvbNGE",
+      "mod_id": "roguelike",
+      "source": "modrinth"
+    },
+    {
       "path": "mods/servercore-fabric-1.5.20+26.3.jar",
       "sha512": "abe1f806ea587971faf7de826e18b07314a4a9e690f64a4c3a54e7f61c3e6f4792633b13a917252bd8de154cec39da6619110d83799cf533450c5b4cac7a8448",
       "size": 901416,
@@ -7223,7 +7327,7 @@
       "path": "mods/simple-clouds-0.7.3+26.3-fabric.jar",
       "sha512": "2bd2740338231ecbe433dc0954e2ed0aee3b484b2f25210bca3c82f6131bba291b64b818458b418bb5ebc28a15d73308caffa4faf503a9dfdeb98f457095322e",
       "size": 6658964,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2bd2740338231ecb-simple-clouds-0.7.3%2B26.3-fabric.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/2bd2740338231ecb-simple-clouds-0.7.3+26.3-fabric.jar",
       "policy": "managed",
       "name": "Simple Clouds",
       "version": "0.7.3+26.3-fabric",
@@ -7403,7 +7507,7 @@
       "path": "mods/sullysmod-3.3.1-beta+26.3.jar",
       "sha512": "ebed5ed775354fc7489bd139368d5ff1f3bfa4daba93966ac6ca53ef7d370b9d3c3ad6fd16806e0995ad503f4f2cdc59ae976402e56a3b822d19adc3713df124",
       "size": 9755850,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ebed5ed775354fc7-sullysmod-3.3.1-beta%2B26.3.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ebed5ed775354fc7-sullysmod-3.3.1-beta+26.3.jar",
       "policy": "managed",
       "name": "Sully's Mod",
       "version": "3.3.1-beta+26.3",
@@ -7424,15 +7528,15 @@
       "source": "modrinth"
     },
     {
-      "name": "Supplementaries",
-      "version": "4.0.2+26.3-fabric-jan1",
-      "mod_id": "supplementaries",
-      "project": "supplementaries",
       "path": "mods/supplementaries-4.0.2+26.3-fabric-jan1.jar",
       "sha512": "79bd8c1ff0d010468261879c066a73aafcf9b364807a668907ca10d08ec4f6be404a2c22aa69f4560ee1185845bc5876b419395850baa9f9fbd595182a3c6e65",
       "size": 13402367,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/79bd8c1ff0d01046-supplementaries-4.0.2%2B26.3-fabric-jan1.jar",
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/79bd8c1ff0d01046-supplementaries-4.0.2+26.3-fabric-jan1.jar",
       "policy": "managed",
+      "name": "Supplementaries",
+      "version": "4.0.2+26.3-fabric-jan1",
+      "project": "supplementaries",
+      "mod_id": "supplementaries",
       "source": "github"
     },
     {
@@ -7580,13 +7684,13 @@
       "source": "github"
     },
     {
-      "path": "mods/villagernames-26.3.0-8.9.jar",
-      "sha512": "95683297677d32e64339b26664778808defe109978990d891ca0ac028f155b686ad834d90eea0e29ab0484ccc1042b87c67288801002ec182855e6d11ee3a221",
-      "size": 79568,
-      "url": "https://cdn.modrinth.com/data/gqRXDo8B/versions/QxLRvQUU/villagernames-26.3.0-8.9.jar",
+      "path": "mods/villagernames-26.3.0-9.0.jar",
+      "sha512": "4beec2e887b27144441c7ae17d3972571e1bdc40783573f99662426def19a4f670b9b22835fd439f6e4153b6fe8913796bc794973300458b32cc5dc4185203a7",
+      "size": 82309,
+      "url": "https://cdn.modrinth.com/data/gqRXDo8B/versions/CbGDDrh8/villagernames-26.3.0-9.0.jar",
       "policy": "managed",
       "name": "Villager Names",
-      "version": "26.3.0-8.9-fabric+forge+neo",
+      "version": "26.3.0-9.0-fabric+forge+neo",
       "project": "gqRXDo8B",
       "mod_id": "villagernames",
       "source": "modrinth"
@@ -7619,12 +7723,13 @@
       "path": "mods/weatherglass-0.5.0-26.3-fabric.jar",
       "sha512": "56f3713dedc5f9d23e41a541d1a34762bd113fb991ee4838dc717565f7c4d32c3d6e6bba8c66d2314d261518969ba950690800ff680ee8ac59f824cb9e7e4cf6",
       "size": 331596,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/56f3713dedc5f9d2-weatherglass-0.5.0-26.3-fabric.jar",
       "policy": "managed",
       "name": "Weather Glass",
       "version": "0.5.0+26.3-fabric",
       "project": "weatherglass",
       "mod_id": "weatherglass",
-      "url": "https://edge.forgecdn.net/files/9383/208/weatherglass-0.5.0-26.3-fabric.jar"
+      "source": "github"
     },
     {
       "path": "mods/wits-1.4.3+26.3-fabric.jar",
@@ -7743,14 +7848,20 @@
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
-      "sha512": "759dc33b247551ea00e94dd6c4fc6efbfb88b546e0089b9c77abbfc15a9155ae56729475d8b27231e9b0469e31dee46bdbef9d6253ee24bfe94ecd0937fc1d27",
-      "size": 51,
+      "sha512": "11e3281717b8f0b65d665af5125eb3d7e54c2f89d63d44b0836e6a9e1df401f8ef674afa5971d020600dd00ea59c3b737213f21a0ccb185ef061d0aa4a480955",
+      "size": 228,
       "url": "overrides/shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
       "policy": "managed",
       "source": "repo"
     }
   ],
   "changelog": [
+    {
+      "build": 9,
+      "version": "2026.11.11-1",
+      "date": "2026-11-11",
+      "text": "Sync with Jan's live profile: Fabric API 0.166.2, Collective 8.86, MezzConfig 0.7.1, Mielon's The Sift 2.0.3, Carry On 2.12.2, Mendable Anvils 1.2.5, Metal Bundles 26.3.4, Villager Names 9.0; add Roguelike Dungeons 2.1.2; jansfixes 1.1.0 (DH dimension gate)."
+    },
     {
       "build": 8,
       "version": "2026.11.09-1",

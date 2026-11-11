@@ -21,7 +21,12 @@
     "dev.shadowsoffire.apotheosis.client.WorldTierTutorialScreen": true,
     "com.vulp.druidcraftrg.client.gui.screen.inventory.CrateScreen": true,
     "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
-    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.eboac.terracraft.client.screen.CraftBrowserScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "dev.shadowsoffire.apotheosis.client.WorldTierSelectScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
