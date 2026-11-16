@@ -1,0 +1,40 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "flax"
+    }
+  ],
+  "type": "moonlight:add_item",
+  "condition": {
+    "type": "minecraft:all_of",
+    "terms": [
+      {
+        "type": "minecraft:match_tool",
+        "predicate": {
+          "tag": "farmersdelight:straw_harvesters"
+        }
+      },
+      {
+        "type": "moonlight:optional_block_state_property",
+        "block": "supplementaries:flax",
+        "properties": {
+          "age": {
+            "value": "7"
+          },
+          "half": {
+            "value": "lower"
+          }
+        }
+      }
+    ]
+  },
+  "item": {
+    "id": "farmersdelight:straw",
+    "count": 1
+  }
+}

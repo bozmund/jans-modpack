@@ -1,0 +1,52 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "ash_from_burning_mobs"
+    }
+  ],
+  "type": "moonlight:add_item",
+  "condition": {
+    "type": "minecraft:all_of",
+    "terms": [
+      {
+        "type": "minecraft:damage_source_properties",
+        "predicate": {
+          "tags": [
+            {
+              "id": "#minecraft:is_fire",
+              "expected": true
+            }
+          ]
+        }
+      },
+      {
+        "type": "minecraft:random_chance",
+        "chance": 0.15
+      },
+      {
+        "type": "minecraft:inverted",
+        "term": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "entity_type": "#supplementaries:ash_blacklist"
+          }
+        }
+      },
+      {
+        "type": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "flags": {
+            "is_on_fire": true
+          }
+        }
+      }
+    ]
+  },
+  "item": {
+    "id": "supplementaries:ash",
+    "count": 1
+  }
+}

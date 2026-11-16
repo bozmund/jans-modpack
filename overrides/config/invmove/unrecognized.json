@@ -26,7 +26,8 @@
     "net.minecraft.client.gui.screens.options.OptionsScreen": true,
     "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
     "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
-    "dev.shadowsoffire.apotheosis.client.WorldTierSelectScreen": true
+    "dev.shadowsoffire.apotheosis.client.WorldTierSelectScreen": true,
+    "com.teammetallurgy.atum.client.gui.CamelScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -40,6 +41,7 @@
     "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
     "com.vulp.druidcraftrg.client.gui.screen.inventory.CrateScreen": true,
     "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
-    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.teammetallurgy.atum.client.gui.CamelScreen": true
   }
 }

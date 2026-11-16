@@ -5,7 +5,8 @@
       "block_side_attachment": true,
       "slide_on_fall": true,
       "horizontal_ropes": true,
-      "lead_knots": true
+      "lead_knots": true,
+      "replace_in_loot_tables": "NONE"
     },
     "jar": {
       "enabled": true,

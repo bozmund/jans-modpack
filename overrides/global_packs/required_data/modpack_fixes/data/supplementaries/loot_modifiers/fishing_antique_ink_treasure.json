@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "antique_ink"
+    }
+  ],
+  "type": "moonlight:add_item",
+  "condition": {
+    "type": "minecraft:all_of",
+    "terms": [
+      {
+        "type": "moonlight:loot_table_id_pattern",
+        "matches": [
+          "minecraft:gameplay/fishing/treasure"
+        ]
+      },
+      {
+        "type": "minecraft:random_chance",
+        "chance": 0.02
+      }
+    ]
+  },
+  "item": {
+    "id": "supplementaries:antique_ink",
+    "count": 1
+  }
+}

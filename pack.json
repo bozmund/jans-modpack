@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 10,
-  "version": "2026.11.11-2",
+  "build": 11,
+  "version": "2026.11.16",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -2401,7 +2401,7 @@
     },
     {
       "path": "config/druidcraftrg-common.properties",
-      "sha512": "f5c59bf0c5a768dcb218ffcf90764858514d82b87855e8db99eaa3d2862a8b72bf4473b1658b786401acfb43fd722be52172fb35cd083a4a754bbe85bda6539f",
+      "sha512": "62824b9ad93e63c92aabe0fd7d695aa4646b95ed812fbfd1e92e7abe7ed7930e4a08e2fd75c0c50a61e6d0ef90396ee5977dda3febce9692d302753070ad0984",
       "size": 258,
       "url": "overrides/config/druidcraftrg-common.properties",
       "policy": "once",
@@ -2801,8 +2801,8 @@
     },
     {
       "path": "config/invmove/unrecognized.json",
-      "sha512": "99ebdb7d3358a40f30526bf1d5050c87dac9f50525bbb9411cb035ddb0c26d9ee54527d7a12ab89613d8265508317d6d441df3a4f86eabb42e0da1089ffac785",
-      "size": 2750,
+      "sha512": "7a0a3e0af96f177d7515ebb9599ae4f5e18b77babf863d490a5b8c586a1394b674e0eee6cc76c1fa0d915228347955535590faca056c045fa53a25b07e76ced0",
+      "size": 2870,
       "url": "overrides/config/invmove/unrecognized.json",
       "policy": "once",
       "source": "repo"
@@ -2825,7 +2825,7 @@
     },
     {
       "path": "config/iris.properties",
-      "sha512": "02ba6c5635081c5196044b9704a02de40cf58f6e5078e58194768b0b1d9943cc699d6a5c89bc4b4f5c2ef3676381dcbd7c4247c89b6e3a5d5e50d4ecd1a3f01d",
+      "sha512": "9d92ff07db1c765f2dc21ee0420f7bf15e0e38c6ca0449c3ea3e7e7013eb3bf4aabf33eec941445dad80968aa9cd58d09439ef5d7cc1c78d3520d3bcae2cb054",
       "size": 306,
       "url": "overrides/config/iris.properties",
       "policy": "once",
@@ -3257,7 +3257,7 @@
     },
     {
       "path": "config/packetfixer.properties",
-      "sha512": "5c8952310d591641e5a7141b8dffa1f10a42c773bfd41525b96271a25eba7ea8b91223a8328f55843c67be9d493c28fb470eb8ead4cf4f3deaacc2a7c8ef58f5",
+      "sha512": "78517658511d44ef85e345b9635ee01c28ba5bbff6c30ce184ae1721a50cc9b1938aa3b4aef46bc4502673a26fe80ee79f215ea7d4b696d798bc4d28b4021f25",
       "size": 535,
       "url": "overrides/config/packetfixer.properties",
       "policy": "once",
@@ -3713,7 +3713,7 @@
     },
     {
       "path": "config/sizeable_foliage.properties",
-      "sha512": "07b23ab0238b402df67b3a567406f6020ba7f91fae054160288aaa7e6ff4c0ad352df52d0237d8c20a6c5721f82ed3c6d0b3a6d6ae38ba796c8d9acced3813e1",
+      "sha512": "3fca54cca1dea372290c4e9ca70c1f34da0af14b2a87e287209dec157968ee6740c1bffa8f17eee546be18ccac80986ba404e7aabecc84eaab982ceac52151c5",
       "size": 83,
       "url": "overrides/config/sizeable_foliage.properties",
       "policy": "once",
@@ -4161,8 +4161,8 @@
     },
     {
       "path": "config/supplementaries-common.json",
-      "sha512": "788e145820d1af3c51b4de00c315399355b01a083c967f5bd2dfc8388dc6658806186807e9a27686fdde270ed2598ddc9ebf63b880c509c273d050a565413908",
-      "size": 11427,
+      "sha512": "b92db8ee991ff4d65df67c2de1de34b60bdc2d2e5d81a19765e3a756cdc36a3850a4f2d287b44b27d59dbc09db8591a23a5e7caa488e1ca414626aabaac4cc7f",
+      "size": 11467,
       "url": "overrides/config/supplementaries-common.json",
       "policy": "once",
       "source": "repo"
@@ -4449,7 +4449,7 @@
     },
     {
       "path": "config/vmp.properties",
-      "sha512": "019d3e8c90fb7b6479cfa06a11dbcf7065a096a28978071f19b45b90652bebcfb419113445d6f3a3e03214fd27398cdc27946a3113506d93328ffc8123213e1b",
+      "sha512": "d50f1f37de3a8ee552828b0606fee9ef811d8905fd378ae8c6bd724c7a5e222e06de2a59a49119d91abd8453b93d0e7cc414a3cdcef97cba7c2dbb85b49c0878",
       "size": 390,
       "url": "overrides/config/vmp.properties",
       "policy": "once",
@@ -5392,6 +5392,22 @@
       "source": "repo"
     },
     {
+      "path": "global_packs/required_data/modpack_fixes/data/minecraft/loot_table/gameplay/fishing/junk.json",
+      "sha512": "0b4e04a914218cdfa3f8a0deee0a0af39e29d166cf6525a8df1a6e5c16da6e2a0f91f07c4108ff9c3b5c18d4aa4fe5965e24ab3bb03cf337a552055b9c272ba6",
+      "size": 2914,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/minecraft/loot_table/gameplay/fishing/junk.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/minecraft/loot_table/gameplay/fishing/treasure.json",
+      "sha512": "e30a704fd168b4a9a68f74f6da2e353f5e6d9185f2d50f8d2f503b1e0c080da54285b5bb3a5dafb5c08a337c423dbeadb5bde71123d00c32545d668f61860e91",
+      "size": 2030,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/minecraft/loot_table/gameplay/fishing/treasure.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
       "path": "global_packs/required_data/modpack_fixes/data/minecraft/simulate_info/blocks/azalea.json",
       "sha512": "9c5773f9ccd02d55e559fb4f507d7d7cda5163f2e4d8d15987ed7bdcb35195781e1cffdc2da047fab48a43ecdeaa8a5b7c4ccae83984de4743c59f5c161dbf79",
       "size": 639,
@@ -5408,9 +5424,65 @@
       "source": "repo"
     },
     {
+      "path": "global_packs/required_data/modpack_fixes/data/neoforge/loot_modifiers/global_loot_modifiers.json",
+      "sha512": "4889be0f842a1931716c57f77e431a15d9608acc2688222d2f5359bcefc5b7b2fd522fd946e0865d16dbf846d3fe9c16ec71be54a7652faa193d6efe1a9d46bc",
+      "size": 162,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/neoforge/loot_modifiers/global_loot_modifiers.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/ash_from_burning_mobs.json",
+      "sha512": "a6955c5f81d9960b7bd437105349bdc0cce4d0b8af3ad13bd7c12cc4c61f72ba32c014e2e3755b4242f8aaf97ccc4e69e28dd21c6cd528ed3623fa55e1bf0625",
+      "size": 1058,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/ash_from_burning_mobs.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/fishing_antique_ink.json",
+      "sha512": "712760eabca272c293525811a2daf6e7975c3b9a79b2fa3c93757cc4b4a26e301ab5e8ad551c5a33acd23217fa8b53358ec762983e80c6ab39df13f601117e97",
+      "size": 517,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/fishing_antique_ink.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/fishing_antique_ink_treasure.json",
+      "sha512": "af0a4e8badd67b4be8da5beb04f240a9f9d826e675c482a62da5f8b468e90fefc1d079465d7beafd7e953b6a0d7b537fc3b1876aef380add7bf56a9a24d4a1a1",
+      "size": 522,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/fishing_antique_ink_treasure.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/straw_from_flax.json",
+      "sha512": "72e2642e043f8efc7ed84690f6296d25e8794d1865d0c5c95da57ac53f6cf95c1697fa3763464ad222c1687747bed7321efe2876148febd9d37d8b1e2a1ac39a",
+      "size": 770,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/supplementaries/loot_modifiers/straw_from_flax.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/the_bumblezone/advancement/teleportation/teleport_to_bumblezone_pearl.json",
+      "sha512": "ae2623eb3ddda4dfc2743ec996920dacae25d42dbeb8b5d97d3512470cf4014902770b1addc8e33d92373d5b5d55c525dd3ab84fb5d3b79d72504a26b6e8f0e4",
+      "size": 736,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/the_bumblezone/advancement/teleportation/teleport_to_bumblezone_pearl.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
+      "path": "global_packs/required_data/modpack_fixes/data/the_bumblezone/bz_pollen_puff_entity_flowers/legendary_monsters.json",
+      "sha512": "5f242173f5c480390c83eccccb0ff882175e89d64d970865229a3a578e5425e9a2e32fa646f4f66d7bd0ef82e5858e80bfb5a634ac6c0894ad5f80c1f51836c4",
+      "size": 1269,
+      "url": "overrides/global_packs/required_data/modpack_fixes/data/the_bumblezone/bz_pollen_puff_entity_flowers/legendary_monsters.json",
+      "policy": "managed",
+      "source": "repo"
+    },
+    {
       "path": "global_packs/required_data/modpack_fixes/pack.mcmeta",
-      "sha512": "78b08ca993403d2ad10452b3ac890587edd1c0ae05169647128ae2c1eb9219207809defcb116cef77313c1aceeab0ae1225e98b54791d12b30afa0b8c913be37",
-      "size": 179,
+      "sha512": "48f224496f4825884baca19bf8e9deee3ffaffcd13b3929d00b09186fc76bcd1a62833390bddb9b856d2bd400e1f413df589a246ca30d02499bf711087910e40",
+      "size": 329,
       "url": "overrides/global_packs/required_data/modpack_fixes/pack.mcmeta",
       "policy": "managed",
       "source": "repo"
@@ -5704,13 +5776,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/MCEndgame-1.8.1+26.3.jar",
-      "sha512": "3903d1fbc7bd003560b4af72b01e5505ce6d7662041dc826a5d9d07c42f74f2739b2fb7772158a5a6454b6c800c8220edb91afc068c3759c5ced3413f998f8c7",
-      "size": 18984126,
-      "url": "https://cdn.modrinth.com/data/yJtKNlKW/versions/P2ueEmT8/MCEndgame-1.8.1%2B26.3.jar",
+      "path": "mods/MCEndgame-1.8.2+26.3.jar",
+      "sha512": "b9e82ca40ef19e0d0327400a7600c90f58b3b8fd420ffe3efed8b87e7295dd084aadca3e5d3bec0b94e1925fa28cc0b51eef86b22a0b8ad7ed837a27900eb580",
+      "size": 18984824,
+      "url": "https://cdn.modrinth.com/data/yJtKNlKW/versions/Szf7qBVb/MCEndgame-1.8.2%2B26.3.jar",
       "policy": "managed",
       "name": "MCEndgame",
-      "version": "1.8.1+26.3",
+      "version": "1.8.2+26.3",
       "project": "yJtKNlKW",
       "mod_id": "mcendgame",
       "source": "modrinth"
@@ -5776,10 +5848,10 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/PandasFallingTrees-1.0.0+26.3-grounded.4.jar",
-      "sha512": "d74ea8b189b8343c2c797f4c1ffcf6fc46656c06c860b82367be963d4364a1f7723c83494acef59e1fa8dde14fb5f785261e839045eef3f580257657763b8331",
-      "size": 2078795,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/d74ea8b189b8343c-PandasFallingTrees-1.0.0+26.3-grounded.4.jar",
+      "path": "mods/PandasFallingTrees-1.0.0+26.3-grounded.5.jar",
+      "sha512": "3d67a509b8aa4b9768d24fd08ad5bc5312a87e30b740359440e19216656e5182e332637e2ea98af817cf3abc1ec94a2c1884d1c62d17eb083721dad7b1c02a4c",
+      "size": 2080915,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/3d67a509b8aa4b97-PandasFallingTrees-1.0.0+26.3-grounded.5.jar",
       "policy": "managed",
       "name": "Panda's Falling Trees — Grounded",
       "version": "1.0.0+26.3-grounded.1",
@@ -6100,10 +6172,10 @@
       "source": "github"
     },
     {
-      "path": "mods/apothic_spawners-2.0.1+26.3-fabric.jar",
-      "sha512": "60c53733c41d12eecdc4e7a3bfdd99af1021297cb6dd1a21a00c12da029f8982877c1fcdf266e49c665be3e9fd1bd28e8e7d77eff6b0350d2a51970fef0f6b64",
-      "size": 135966,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/60c53733c41d12ee-apothic_spawners-2.0.1+26.3-fabric.jar",
+      "path": "mods/apothic_spawners-2.0.1+26.3-fabric-jan1.jar",
+      "sha512": "1e2364879f9305a62998c9ff33aac9720b8f3eb98c0c9b57e292f8f511d049add07f638ff7afdbd3e6720efae2366c479a64af3e07d86ca8b8830968442bad79",
+      "size": 136078,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/1e2364879f9305a6-apothic_spawners-2.0.1+26.3-fabric-jan1.jar",
       "policy": "managed",
       "name": "Apothic Spawners",
       "version": "2.0.1+26.3-fabric",
@@ -6148,13 +6220,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/atum-2.3.0+26.3-fabric.jar",
-      "sha512": "8940522b34d253114fe583e46399ea018a279731ef2169eee818321fef90a6acca133c0dc687aac9a50d102b288540ca09b1d5109f50097ce7cfc7d5d2cb13df",
-      "size": 5006682,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8940522b34d25311-atum-2.3.0+26.3-fabric.jar",
+      "path": "mods/atum-2.3.0+26.3-fabric-jan4.jar",
+      "sha512": "dd917852f19922468bab9f1b4e2ab6d73a26b820a279f0b9733d885738a80eed2658814c19da599539ae6a8e7ae88a112317bb700cf8a224734337e5683a6804",
+      "size": 4903086,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/dd917852f1992246-atum-2.3.0+26.3-fabric-jan4.jar",
       "policy": "managed",
       "name": "Atum 2: Return to the Sands",
-      "version": "2.3.0+26.3-fabric",
+      "version": "2.3.0+26.3-fabric-jan4",
       "project": "atum",
       "mod_id": "atum",
       "source": "github"
@@ -6244,13 +6316,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
-      "sha512": "5db513d05f909d7b09d035b40f0d31945ec8911f4d7b75fa258bb6e6338761b8847c9d1804d40b647e1781cfc143ff7dd0e0a4389f19ec46e031be7bbb7b5052",
-      "size": 4219731,
-      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/aOP6eqZA/c2me-fabric-mc26.3-0.4.2-alpha.0.116.jar",
+      "path": "mods/c2me-fabric-mc26.3-0.4.2-alpha.0.119.jar",
+      "sha512": "ba50c585ac92588bbe40ed77d2bdac3c22bc2a543165feebe19684730479da52fa8e5bffaebe8801b90d8f7616fd57703b2f2b447807a65061919fb86f887821",
+      "size": 4484613,
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/W9HllAiU/c2me-fabric-mc26.3-0.4.2-alpha.0.119.jar",
       "policy": "managed",
       "name": "Concurrent Chunk Management Engine (Fabric)",
-      "version": "0.4.2-alpha.0.116+26.3",
+      "version": "0.4.2-alpha.0.119+26.3",
       "project": "VSNURh3q",
       "mod_id": "c2me",
       "source": "modrinth"
@@ -6509,9 +6581,9 @@
     },
     {
       "path": "mods/druidcraftrg-0.0.14+26.3-fabric.jar",
-      "sha512": "5c6f9b07f815fe33ff53a042e064a91d669b1c46668287582aa0b1efd5b1d6bc4f93f4fe20b4fc0c6caa6f29eeab0aab038a33a0dc4a984d132140d7ad55a330",
-      "size": 1252325,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5c6f9b07f815fe33-druidcraftrg-0.0.14+26.3-fabric.jar",
+      "sha512": "99a77d0042870e225271bd14a77b7a391833c8a46d41379e33dc28224d4a9594011403b1156d5a2b6b3e0027dbb2ebd69ee85b485d1a980f648031afc225277e",
+      "size": 1288723,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/99a77d0042870e22-druidcraftrg-0.0.14+26.3-fabric.jar",
       "policy": "managed",
       "name": "Druidcraft Regrown",
       "version": "0.0.14+26.3-fabric",
@@ -6604,13 +6676,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/entityculling-fabric-1.11.3-mc26.3.jar",
-      "sha512": "b6209bb62d72376d3fd284da137ec93a6dd38ebe5fd38ab9190deeade68b5b7f4bf915f4abcb4a807afe18cb9f0b59e11be789d46df6f0e6f64388ed2edc284d",
-      "size": 1508547,
-      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/X1g3VhTx/entityculling-fabric-1.11.3-mc26.3.jar",
+      "path": "mods/entityculling-fabric-1.12.1-mc26.3.jar",
+      "sha512": "c56e2a19fa98b8ee85d7f46b74966a272f03ec9a8edacd4a6eb629970f19fd4d2a9bddeacb8405f9abdb790a40895244927a28cf5dbbe4dcb65a0b307f493fcb",
+      "size": 1522184,
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/UWpkLRV5/entityculling-fabric-1.12.1-mc26.3.jar",
       "policy": "managed",
       "name": "Entity Culling",
-      "version": "1.11.3",
+      "version": "1.12.1",
       "project": "NNAgCjsB",
       "mod_id": "entityculling",
       "source": "modrinth"
@@ -6832,22 +6904,22 @@
       "source": "github"
     },
     {
-      "path": "mods/jansfixes-1.1.0+26.3.jar",
-      "sha512": "0b42338ef3e89ab307e2e6b7f4c2f6abd9ae32f6dcf89fd1aa98662012605cff2ba3f75f00378bd2c146ed6f54ed850de8b56b2665c46182fa5d47082f86e2ff",
-      "size": 27871,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/0b42338ef3e89ab3-jansfixes-1.1.0+26.3.jar",
+      "path": "mods/jansfixes-1.5.6+26.3-candidate.jar",
+      "sha512": "8cd629bef4cfcddfd799086c4f2a35a8c849b7a976a90244d354732f44100ab3680504b2adebbb29873993d6472b1694969e38e063f9a3bc29362822a6888eb9",
+      "size": 58581,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/8cd629bef4cfcddf-jansfixes-1.5.6+26.3-candidate.jar",
       "policy": "managed",
       "name": "Jans Fixes",
-      "version": "1.1.0",
+      "version": "1.5.6+26.3-candidate",
       "project": "jansfixes",
       "mod_id": "jansfixes",
       "source": "github"
     },
     {
       "path": "mods/jansqol-1.0.0+26.3.jar",
-      "sha512": "d7efe8450dd5776d287a49765656fbab50a63d5d9b809f869993cec4e89b2146176895c4ea25aa61b7d2562e89a5b3c3ca3913b237624d57f4b54e213130f8c4",
-      "size": 12766185,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/d7efe8450dd5776d-jansqol-1.0.0+26.3.jar",
+      "sha512": "9bbfa381f7834da92d02a0de107cb541bc035bdbfe5824c507b6c5cecc13ae5051bcce2b33a44c5e4815b5a89dda61c74b6a19710532dc77374824caaccc4ba6",
+      "size": 12767328,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/9bbfa381f7834da9-jansqol-1.0.0+26.3.jar",
       "policy": "managed",
       "name": "Jansqol",
       "version": "1.0.0+26.3",
@@ -7048,13 +7120,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/modmenu-21.0.0.jar",
-      "sha512": "588c0c557963f4778572ee81bfafc190b332c26d5926c5fe7e3e1614dcf8e14f58e3bc80a97694521dd05907e9753a7c8575048ea769e4dbf40a3db74a4e2606",
-      "size": 856779,
-      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/kyy7dbrZ/modmenu-21.0.0.jar",
+      "path": "mods/modmenu-21.0.1.jar",
+      "sha512": "d00d52d5342728da13a6237f76c50fc5fd1c62d8112ae4e07726bbc64d2019a76130d6b2968765df81c6499225588eacee6681eebc13c0ada3cad91fc8ab2984",
+      "size": 862761,
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/xckkBHD5/modmenu-21.0.1.jar",
       "policy": "managed",
       "name": "Mod Menu",
-      "version": "21.0.0",
+      "version": "21.0.1",
       "project": "mOgUt4GM",
       "mod_id": "modmenu",
       "source": "modrinth"
@@ -7169,9 +7241,9 @@
     },
     {
       "path": "mods/placebo-10.0.2+26.3-fabric.jar",
-      "sha512": "ab6724f1c1f9921ca30e785e8700d003e929d7e94c4150d32789af5d2f0ca5786fd7d98b60062e705447a71b0e8bfdad6b4fc6d64bdda5eafbdcbf172da4d660",
-      "size": 1106492,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/ab6724f1c1f9921c-placebo-10.0.2+26.3-fabric.jar",
+      "sha512": "5c6ecc552d7b1c072531e8bf020dc528f9eadebe718b10c308a0c050c686c950682c682714c507badbbf215390b16fb2556813000ce13aa8a8233359bec8ae89",
+      "size": 1110672,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5c6ecc552d7b1c07-placebo-10.0.2+26.3-fabric.jar",
       "policy": "managed",
       "name": "Placebo",
       "version": "10.0.2+26.3-fabric",
@@ -7240,13 +7312,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/puzzleslib-v26.3.17-mc26.3.x+fabric.jar",
-      "sha512": "6366724a2eb5320b02feacb0983fdd66bf8615c17d7a44426264434222acbc7462ab0c0b81756ae3a11aa82e32a584fae774fccd0f4abfd0db5535747ff74c40",
-      "size": 1094042,
-      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/b1UA02v8/puzzleslib-v26.3.17-mc26.3.x%2Bfabric.jar",
+      "path": "mods/puzzleslib-v26.3.18-mc26.3.x+fabric.jar",
+      "sha512": "98c3ce53f06871d1d735efd6fd4a3e968f48808d83c1e4863d599db8e1b8f44e178334aafbf5a4d5a7f003931e5aa7a8bddba4ad56f86857d0990f3d5d22de9a",
+      "size": 1095082,
+      "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/TZ0hp2h3/puzzleslib-v26.3.18-mc26.3.x%2Bfabric.jar",
       "policy": "managed",
       "name": "Puzzles Lib",
-      "version": "26.3.17",
+      "version": "26.3.18",
       "project": "QAGBst4M",
       "mod_id": "puzzleslib",
       "source": "modrinth"
@@ -7528,13 +7600,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/supplementaries-4.0.2+26.3-fabric-jan1.jar",
-      "sha512": "79bd8c1ff0d010468261879c066a73aafcf9b364807a668907ca10d08ec4f6be404a2c22aa69f4560ee1185845bc5876b419395850baa9f9fbd595182a3c6e65",
-      "size": 13402367,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/79bd8c1ff0d01046-supplementaries-4.0.2+26.3-fabric-jan1.jar",
+      "path": "mods/supplementaries-4.0.2+26.3-fabric-jan6.jar",
+      "sha512": "103c15813f387c083b8489b20d20040b59f1639ad2e8c7aeba9c62fa73a05b46bb856653dec8c3b41860901e63a49dc17b44a31d683f49d856010610907aebff",
+      "size": 13437115,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/103c15813f387c08-supplementaries-4.0.2+26.3-fabric-jan6.jar",
       "policy": "managed",
       "name": "Supplementaries",
-      "version": "4.0.2+26.3-fabric-jan1",
+      "version": "4.0.2+26.3-fabric-jan6",
       "project": "supplementaries",
       "mod_id": "supplementaries",
       "source": "github"
@@ -7576,16 +7648,16 @@
       "source": "github"
     },
     {
-      "path": "mods/torrential-fabric-26.3-1.1.0.jar",
-      "sha512": "f9a29875d98cb8070d61e8274049ca17e7ae8f1568dae18f0f2f8a0d04bfa76da2cef6d7fc581b72343210100cdad4a4ff19b272832415895befda35eab45161",
-      "size": 208526,
-      "url": "https://cdn.modrinth.com/data/sTjZv5lN/versions/53LaZXhm/torrential-fabric-26.3-1.1.0.jar",
+      "path": "mods/torrential-fabric-26.3-1.1.0-jan1.jar",
+      "sha512": "29f7025e851632cf7da693111f862664cc32509ca58c901c07eee04a7c2fc8fb9e3c54d1d85e4cb443687efa7e8973dbdfa24587c7cc81ea9b7021a3015d2422",
+      "size": 203699,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/29f7025e851632cf-torrential-fabric-26.3-1.1.0-jan1.jar",
       "policy": "managed",
       "name": "Torrential",
-      "version": "1.1.0",
-      "project": "sTjZv5lN",
+      "version": "1.1.0-jan1",
+      "project": "torrential",
       "mod_id": "torrential",
-      "source": "modrinth"
+      "source": "github"
     },
     {
       "path": "mods/trade-cycling-fabric-1.0.23+26.3.jar",
@@ -7624,13 +7696,13 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/twilightforest-fabric-26.3-4.9.0+26.3-port.1.jar",
-      "sha512": "70386a23c34e3ee8ad43a35a658653cefa8a6eba08115cc1d485e02e7b20a5b177c914d26789db555e263614a96312a1db01e84c131d258fa1bbb35253d44975",
-      "size": 26934519,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/70386a23c34e3ee8-twilightforest-fabric-26.3-4.9.0+26.3-port.1.jar",
+      "path": "mods/twilightforest-fabric-26.3-4.9.0+26.3-port.1-jan1.jar",
+      "sha512": "0ad11da542629006f0ea4f36cd1812910f8ecaf126c43605abc11ebb05d184b564666e1d1d6326ee682cbeedc20bdc3708d569d8fee2786f2b9c9256bc5a3e7a",
+      "size": 26932551,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/0ad11da542629006-twilightforest-fabric-26.3-4.9.0+26.3-port.1-jan1.jar",
       "policy": "managed",
       "name": "The Twilight Forest",
-      "version": "4.9.0+26.3-port.1",
+      "version": "4.9.0+26.3-port.1-jan1",
       "project": "twilightforest",
       "mod_id": "twilightforest",
       "source": "github"
@@ -7848,7 +7920,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
-      "sha512": "11e3281717b8f0b65d665af5125eb3d7e54c2f89d63d44b0836e6a9e1df401f8ef674afa5971d020600dd00ea59c3b737213f21a0ccb185ef061d0aa4a480955",
+      "sha512": "abd727270f9a21417a0a7052a3a62bed07af5c1fa84221218411f1ddfd01313e3a5ed9aedcc5083f379161c67471b45604f481557e3fc6a8b6fd6e3fa0c6d47e",
       "size": 228,
       "url": "overrides/shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt",
       "policy": "managed",
@@ -7856,6 +7928,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 11,
+      "version": "2026.11.16",
+      "date": "2026-11-16",
+      "text": "Fix horse (and any egg-changed) spawners reverting to their old mob after the first spawn (Apothic Spawners). Supplementaries: flags, statues, book piles, bubble blocks, notice-board text and blackboard drawings render again; sign post text kept. Atum camel model and baby camel grounding (jan4). Fishing rods enchantable on the anvil again (Torrential). Twilight Forest no longer disables Apotheosis attribute affixes. Jans Fixes 1.5.6 (candle clusters, chainsaw leaf clearing and other tested repairs) and loot/data fixes. Updates: MCEndgame 1.8.2, Entity Culling 1.12.1, Mod Menu 21.0.1, Puzzles Lib 26.3.18, C2ME 0.119. Native Linux and Windows checks passed for the listed fixes; these are not exhaustive tests of every mod. Existing player settings are preserved.\n"
+    },
     {
       "build": 10,
       "version": "2026.11.11-2",

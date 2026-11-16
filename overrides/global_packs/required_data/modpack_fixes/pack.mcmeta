@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "Jan's modpack: data fixes for other mods (Unloaded Activity azalea, Create tree fertilizer)",
+    "description": "Jan's modpack: data fixes for other mods (Unloaded Activity azalea, Create tree fertilizer) | The Bumblezone: teleport_to_bumblezone_pearl re-parented to is_near_beehive so entering by ender pearl awards it without first doing the piston one",
     "max_format": 121,
     "min_format": 121
   }
