@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.16-3 (build 13, 2026-11-16)
+
+Fix Apotheosis right-click item effects: choosing the Stoneforming target (shift-right-click a stone block), Enlightened torch placing and gem use effects did nothing. Stoneforming now converts mined stone-type blocks to the chosen block; checked on Linux and Windows. Existing player settings are preserved.
+
 ## 2026.11.16-2 (build 12, 2026-11-16)
 
 Fix Apotheosis reforging and augmenting tables: they rejected every Sigil of Rebirth/Enhancement, and shift-clicking a sigil into the reforging table froze the game. Salvaging, reforging, augmenting and all gem cutting upgrades (cracked to perfect) were checked through the real table menus on Linux and Windows. Existing player settings are preserved.

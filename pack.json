@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 12,
-  "version": "2026.11.16-2",
+  "build": 13,
+  "version": "2026.11.16-3",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -6136,10 +6136,10 @@
       "source": "modrinth"
     },
     {
-      "path": "mods/apotheosis-9.1.0+26.3-fabric.jar",
-      "sha512": "7b628db3c15f5d1830dc0818d6214beeb757e84d13176d0eea0d7278c37783945ffbdf2ce2818443e4c5321a259bc0d0ba05b0baf8673db3b6d86045858db977",
-      "size": 6942567,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/7b628db3c15f5d18-apotheosis-9.1.0+26.3-fabric.jar",
+      "path": "mods/apotheosis-9.1.0+26.3-fabric-jan1.jar",
+      "sha512": "7333708d0fcc9186b03df40ba147f1aeedb11d607faf3df53568beb7c162912d162ad2353e246a88ab50614a0519f59899d42f74891e1fa5d8dd1e6d7a2331f3",
+      "size": 6901143,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/7333708d0fcc9186-apotheosis-9.1.0+26.3-fabric-jan1.jar",
       "policy": "managed",
       "name": "Apotheosis",
       "version": "9.1.0+26.3-fabric",
@@ -7928,6 +7928,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 13,
+      "version": "2026.11.16-3",
+      "date": "2026-11-16",
+      "text": "Fix Apotheosis right-click item effects: choosing the Stoneforming target (shift-right-click a stone block), Enlightened torch placing and gem use effects did nothing. Stoneforming now converts mined stone-type blocks to the chosen block; checked on Linux and Windows. Existing player settings are preserved.\n"
+    },
     {
       "build": 12,
       "version": "2026.11.16-2",
