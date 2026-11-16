@@ -1,8 +1,8 @@
 {
   "format": 1,
   "name": "Jan's Fabric 26.3",
-  "build": 11,
-  "version": "2026.11.16",
+  "build": 12,
+  "version": "2026.11.16-2",
   "minecraft": "26.3",
   "fabric_loader": "0.20.1",
   "recommended_memory_mb": 8192,
@@ -7240,10 +7240,10 @@
       "source": "github"
     },
     {
-      "path": "mods/placebo-10.0.2+26.3-fabric.jar",
-      "sha512": "5c6ecc552d7b1c072531e8bf020dc528f9eadebe718b10c308a0c050c686c950682c682714c507badbbf215390b16fb2556813000ce13aa8a8233359bec8ae89",
-      "size": 1110672,
-      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5c6ecc552d7b1c07-placebo-10.0.2+26.3-fabric.jar",
+      "path": "mods/placebo-10.0.2+26.3-fabric-jan1.jar",
+      "sha512": "5caaa1ff04aa21c6743760255a4cee13a681f69b7b7f3597ae0ed41b387c9d181adaa2d9ce371d41bbc753d884c5625ff022768cb79dc28a90f863d63deb0ae5",
+      "size": 1110918,
+      "url": "https://github.com/bozmund/jans-modpack/releases/download/files/5caaa1ff04aa21c6-placebo-10.0.2+26.3-fabric-jan1.jar",
       "policy": "managed",
       "name": "Placebo",
       "version": "10.0.2+26.3-fabric",
@@ -7928,6 +7928,12 @@
     }
   ],
   "changelog": [
+    {
+      "build": 12,
+      "version": "2026.11.16-2",
+      "date": "2026-11-16",
+      "text": "Fix Apotheosis reforging and augmenting tables: they rejected every Sigil of Rebirth/Enhancement, and shift-clicking a sigil into the reforging table froze the game. Salvaging, reforging, augmenting and all gem cutting upgrades (cracked to perfect) were checked through the real table menus on Linux and Windows. Existing player settings are preserved.\n"
+    },
     {
       "build": 11,
       "version": "2026.11.16",

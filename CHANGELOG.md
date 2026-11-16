@@ -1,5 +1,9 @@
 # Jan's Fabric 26.3 changelog
 
+## 2026.11.16-2 (build 12, 2026-11-16)
+
+Fix Apotheosis reforging and augmenting tables: they rejected every Sigil of Rebirth/Enhancement, and shift-clicking a sigil into the reforging table froze the game. Salvaging, reforging, augmenting and all gem cutting upgrades (cracked to perfect) were checked through the real table menus on Linux and Windows. Existing player settings are preserved.
+
 ## 2026.11.16 (build 11, 2026-11-16)
 
 Fix horse (and any egg-changed) spawners reverting to their old mob after the first spawn (Apothic Spawners). Supplementaries: flags, statues, book piles, bubble blocks, notice-board text and blackboard drawings render again; sign post text kept. Atum camel model and baby camel grounding (jan4). Fishing rods enchantable on the anvil again (Torrential). Twilight Forest no longer disables Apotheosis attribute affixes. Jans Fixes 1.5.6 (candle clusters, chainsaw leaf clearing and other tested repairs) and loot/data fixes. Updates: MCEndgame 1.8.2, Entity Culling 1.12.1, Mod Menu 21.0.1, Puzzles Lib 26.3.18, C2ME 0.119. Native Linux and Windows checks passed for the listed fixes; these are not exhaustive tests of every mod. Existing player settings are preserved.
